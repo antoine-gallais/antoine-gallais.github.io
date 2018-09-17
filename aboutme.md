@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Academic background and professional experiences
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Antoine Gallais. Currently working in the FUN research group of Inria Lille - Nord Europe (full 2-year secondment, 2017-19), I am an associate professor at the University of Strasbourg, France. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I earned a PhD in Computer Science from the University of Lille (2007), and a HDR habilitation from the University of Strasbourg (2017). 
 
-What else do you need?
+Specialties: wireless ad hoc and mesh networks, actuator and sensor networks, Industrial Internet of Things, activity scheduling, routing and MAC protocols, fault-tolerance, mobile networks, mobile and distributed computing.
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### my academic background
+I hold a master (2004), a PhD degree (2007) in computer science from the University of Lille, and an HDR thesis (2017) from the University of Strasbourg.
