@@ -37,3 +37,81 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 * 2010-11: [EXPRIMA (BQR Unistra)](http://exprima.u-strasbg.fr/), Experimentations for wireless mesh networks.
 * 2009-12: DAHLIA (DGCIS/ANSP), Experimental platform of home automation for telehomecare and remote monitoring for elderly.
 * 2008-11: [SensLAB (ANR TLCOM)](http://www.senslab.info/), Very large scale open wireless sensor network testbed.
+
+## TPC membership
+* 2019:
+    * CoRes’19 (TPC co-chair)
+    * [ICCAIS](http://www.iccais.tech/ctopicpf/)
+    * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
+    * [IEEE ICNC'19](http://www.conf-icnc.org/2019/)
+* 2018: 
+    * [IEEE GlobalSIP'18](https://2018.ieeeglobalsip.org/)
+    * [IEEE GIIS'18](http://www.giis-conf.org/)
+    * [IEEE Globecom'18](http://globecom2018.ieee-globecom.org)
+    * [IARIA INNOV'18](http://www.iaria.org/conferences2018/INNOV18.html)
+    * [IEEE COMNETSAT'18](http://comnetsat.org/)
+    * [IEEE ICNC'18](http://www.conf-icnc.org/2018/)
+    * [IARIA EMERGING'18](http://www.iaria.org/conferences2018/EMERGING18.html)
+    * [ADHOC-NOW'18](http://conferences.imt-atlantique.fr/adhocnow2018/)
+    * [ICST Adhocnets'18](http://adhocnets.org/2018/show/home)
+* 2017: 
+    * [IEEE ICNC'17](http://www.conf-icnc.org/2017/)
+    * [IEEE GIIS'17](http://www.giis-conf.org/)
+* 2016: 
+    * [WPMC'16](http://www.wpmc2016.org/)
+    * [IEEE GIIS'16](http://www.giis-conf.org/)
+    * [ICST Adhocnets'16](http://adhocnets.org/2016/show/home)
+    * [IEEE ICT 2016, Special session, Industrial IoT: Constraints, Guarantees, and Resilience (session co-organizer)](http://ict-2016.org/#SS10)
+    * [IEEE ICT'16](http://ict-2016.org/)
+    * [IPAC'16](http://ipac.icc-conference.org/index.html)
+* 2015: 
+    * [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home)
+    * [IEEE GIIS'15](http://www.giis-conf.org/)
+* 2014: 
+    * [ICST Adhocnets'14 (TPC co-chair)](http://adhocnets.org/2014/show/home)
+    * [IEEE GIIS'14](http://www.giis-conf.org/)
+* 2013: 
+    * [AlgoTel'13 (national conference)](http://algotel2013.sciencesconf.org/)
+    * [ICST Adhocnets'13](http://adhocnets.org/2013/show/home)
+    * [IEEE BEIAC'13](http://www.mypels.org/beiac2013/)
+    * [IEEE GIIS'13](http://www-l2ti.univ-paris13.fr/~giis2013/index.html)
+    * [IEEE ISCI'13](http://isci2013.mypels.org/)
+* 2012: 
+    * [ICST Adhocnets'12](http://adhocnets.org/2012/show/home)
+    * [IEEE ISBEIA'12](http://www.uitmrmi.org/isbeia2012/)
+    * [IEEE ISWTA'12](http://www.mypels.org/iswta2012/)
+* 2011: 
+    * [ICST Adhocnets'11](http://www.adhocnets.org/)
+
+
+## Organization committee membership
+* [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home), [ICST Adhocnets'14 (TPC co-chair)](http://adhocnets.org/2014/show/home), [IEEE Wimob'13 (local co-chair)](http://conferences.computer.org/wimob2013/), [WiSARN'11-Fall (publicity co-chair)](http://researchers.lille.inria.fr/~mitton/WiSARN-fall2011/), [ICST Adhocnets'11 (web chair)](http://adhocnets.org/2011/), [CFIP 2009](http://cfip2009.u-strasbg.fr/), ING (national summer school) 2005.
+
+
+## Scientific visits
+* 2017-19: visiting researcher (full secondment) in [Inria Lille - Nord Europe](https://www.inria.fr/centre/lille).
+* October 2012: Visiting scientist in [Inje University](http://www.inje.ac.kr/english/), Busan, Korea.
+* Feb. apr. 2008: Visiting scientist in [Louis Pasteur University](http://www-ulp.u-strasbg.fr/), Strasbourg, France.
+* Oct. Nov. 2006: Visiting scientist in [Keio University](http://www.keio.ac.jp/index-en.html) (http://www.sfc.keio.ac.jp/)[Shonan Fujisawa Campus (SFC)], Tokyo, Japan.
+* Dec. 2005: Visiting scientist in CITI laboratory (MSCD), Lyon, France.
+
+
+## Invited talks
+
+* April 28 & 29, 2018: [Innov'School Network of Things (ISNOT)](http://www.supcom.mincom.tn/innovcom/isnot2018/img/afficheISNOT2018.pdf), Gammarth, Tunisia.
+* November 25 & 26, 2017: [GDG devfest IoT workshop](http://devfest.ieee.tn/), Sfax, Tunisia.
+* December 17, 2009: [SensorNets, international winter school, 2009](http://sensornets09.cister-isep.info/), Monastir, Tunisia.
+* May 28, 2009: [IMAGINE workshop](http://cui.unige.ch/~hucf/IMAGINE2009/), Piran, Slovenia.
+* January 25, 2007: [IRAMUS workshop](http://iramus.citi.insa-lyon.fr/index.php?option=com_content&task=view&id=27&Itemid=54) (as D. Simplot-Ryl's pinch hitter), Val Thorens, France.
+
+
+## External reviewer
+
+### Journals
+
+ACM Transactions on Sensor Networks, AHSWN, IEEE Transactions on Evolutionary Computation, IEEE Transactions on Mobile Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Vehicular Technology, IEEE Internet of Things journal, MDPI Sensors Journal, IEEE JSAC WSN, IEEE Wireless Communications Magazine, IEEE Communications Letters, Discrete Mathematics and Theoretical Computer Science, Elsevier Ad Hoc Networks, Elsevier Computer communications, Elsevier International Journal of Electronics and Communications, Springer Wireless Networks, EURASIP Journal on Wireless Communications and Networking
+
+### Conferences
+
+ICST Adhocnets, IEEE GIIS, IEEE Globecom/AHSN, IEEE HPCC, IEEE PIMRC, IEEE SECON, IEEE WCNC, IEEE WiMob.
+
