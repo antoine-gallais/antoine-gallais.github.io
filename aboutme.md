@@ -6,8 +6,6 @@ subtitle: Academic background and professional experiences
 
 My name is Antoine Gallais. Currently working in the FUN research group of Inria Lille - Nord Europe (full 2-year secondment, 2017-19), I am an associate professor at the University of Strasbourg, France. 
 
-I earned a PhD in Computer Science from the University of Lille (2007), and a HDR habilitation from the University of Strasbourg (2017). 
-
 Specialties: wireless ad hoc and mesh networks, actuator and sensor networks, Industrial Internet of Things, activity scheduling, routing and MAC protocols, fault-tolerance, mobile networks, mobile and distributed computing.
 
 
