@@ -1,4 +1,9 @@
-::Ouvrages collectifs
+---
+layout: page
+title: Publications
+---
+
+#Book chapters
 
 N. Mitton, M. Erol-Kantarci, A. Gallais, S. Papavassiliou, [Proceedings of Ad Hoc Networks - 7th International Conference, AdHocHets 2015, San Remo, Italy, September 1-2, 2015](http://www.springer.com/la/book/9783319250663), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 155, Springer 2015, ISBN 978-3-319-25066-3.\\[3pt]
 N. Mitton, A. Gallais, M. Erol-Kantarci, S. Papavassiliou, [Proceedings of Ad Hoc Networks - 6th International ICST Conference, ADHOCNETS 2014, Rhodes, Greece, August 18-19, 2014](http://www.springer.com/us/book/9783319133287), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 140, Springer 2014, ISBN 978-3-319-13328-7.\\[3pt]
