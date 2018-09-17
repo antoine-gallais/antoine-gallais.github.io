@@ -3,6 +3,29 @@ layout: page
 title: Research activities
 ---
 
+## PhD Students
+I have / had the pleasure to co-advise or externally advise the following PhD students:
+* [M. A. Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
+ * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
+ * Defense expected in 2019
+ * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
+* [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on virtualizing Heterogeneous Wireless Networks with SDN for the 5G
+ * funding: Idex Unistra 
+ * Defense expected in 2019
+ * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/)
+* [G. Z. Papadopoulos](http://georgiospapadopoulos.com/), University of Strasbourg, on improving Medium Access for Dynamic Wireless Sensor Networks
+ * funding: Idex Unistra
+ * Defended in 2015
+ * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
+* [J. Beaudaux](https://www.linkedin.com/in/jbeaudaux/), University of Strasbourg, on self-configuration of WSNs for remote healthcare
+ * funding: Région Alsace
+ * Defended in 2013
+ * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
+* [Romain Kuntz](https://www.linkedin.com/in/romainkuntz), University of Strasbourg, on medium access control facing the dynamics of wireless sensor networks
+ * funding: Industrial contract
+ * Defended in 2010
+ * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/) and [Dr. Julien Montavont](https://clarinet.u-strasbg.fr/~montavont/)
+ 
 ## Research projects
 * 2018-2021: nano-NET ([ANR JCJC](http://www.agence-nationale-recherche.fr/suivi-bilan/historique-des-appels-a-projets/appel-detail1/appel-a-projets-generique-2018/)), Nano Autonomous Systems for a totally Decentralized Internet.
 * 2016-2017: SemSeN - Semantic Sensor Networks for Smart Factories (API ICube).
