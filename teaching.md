@@ -30,7 +30,7 @@ subtitle: (2004 -- 2017)
 
 ## Teacher
 
-**Period** | **Course** | **Location** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
+| **Period** | **Course** | **Location** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
 | :------- |:----------:| :-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 2015-* | [Research introduction](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=8\|sem=33\|ue=706) | [UFR MAI](http://mathinfo.unistra.fr/) | M.Sc. | 4 | - | - | 20 |
 | 2015-* | [Object-oriented programming](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=17\|sem=37\|ue=407) | [UFR MAI](http://mathinfo.unistra.fr/) | B.Sc. | - | 12 | 10 | 35 |
