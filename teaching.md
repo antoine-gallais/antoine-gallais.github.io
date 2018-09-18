@@ -11,6 +11,9 @@ subtitle: (2004 -- 2017)
 | 2009 -- 2015 | [UFR MAI](http://mathinfo.unistra.fr/) | [Master 2 RISE](http://master-informatique.unistra.fr/rise/rise-formation.php) |
 | 2014 -- 2017 | [UFR MAI](http://mathinfo.unistra.fr/) | [BSc Pro. SIL (ARS)](http://mathinfo.unistra.fr/offre-de-formation/licence-professionnelle-sil/licence-pro-info-ars-fi/) |
 
+
+###### _The following tables include hours achieved per year for each kind of teaching._
+
 ## Head teacher (course)
 
 | **Period** | **Course** | **Location** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
