@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Teaching activities (2004 -- 2017)
+title: Teaching activities
+subtitle: (2004 -- 2017)
 ---
 
 ## Head teacher (year)
