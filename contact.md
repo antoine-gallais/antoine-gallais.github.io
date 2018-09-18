@@ -6,7 +6,7 @@ title: Contact
 ## Reach me at Inria:
 [Inria Lille - Nord Europe](https://www.inria.fr/centre/lille) / [FUN](https://team.inria.fr/fun/)
 Bâtiment A - Parc scientifique de la haute borne
-40, avenue Halley
+40, avenue Halley\\
 59650 VILLENEUVE D'ASCQ, France
 My office: A205
 antoine.gallais(at)inria.fr
