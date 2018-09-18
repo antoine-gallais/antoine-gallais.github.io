@@ -13,6 +13,8 @@ My office: A205<br/>
 antoine.gallais(at)inria.fr<br/>
 Phone: +33(0)359.577.884
 
+![Inria][img/inria.png]
+
 
 ## Reach me at ICube
 
