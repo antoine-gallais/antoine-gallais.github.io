@@ -20,10 +20,10 @@ title: Teaching activities (2004 -- 2017)
 | 2009-*  | [System and network security](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=8\|sem=32\|ue=533) | UFR MAI | M.Sc. | 20 | - | 17 | 22 |
 | 2008-*  | [Networking](http://mathinfo.unistra.fr/offre-de-formation/mod/?spec=26\|sem=65\|mod=11) |UFR MAI | B.Sc. | 16 | 16 | - | 16 |
 | 2013-14 | [Network Architecture](http://iutrs.unistra.fr/images/maquettes/info/IIN_2017_DUT_INFORMATIQUE.pdf) | IUT RS | B.Sc. | - | 21 | 28  | 36 |
-| 2011-13  | [New network services](http://esiroi.univ-reunion.fr/ | ESIROI | M.Sc. | 16 | 14 | - | 10 |
+| 2011-13  | [New network services](http://esiroi.univ-reunion.fr/) | ESIROI | M.Sc. | 16 | 14 | - | 10 |
 | 2008-13  | [Network security](http://mathinfo.unistra.fr/offre-de-formation/mod/?spec=26\|sem=65\|mod=13) | UFR MAI | B.Sc. | 16 | - | 24  | 15 |
 | 2011-12  | [Internet routing](http://esiroi.univ-reunion.fr/) | ESIROI | M.Sc. | 16 | 7 | 7 | 10 |
-| 2008-10 | [Algorithmics]((https://sc-educ.unistra.fr/offre-de-formation/licences/licence-pro-activites-et-techniques-de-communication-lp-atc/) | UFR Sc. de l'éducation | B.Sc. | 7 | 8 | 10  | 11 |
+| 2008-10 | [Algorithmics](https://sc-educ.unistra.fr/offre-de-formation/licences/licence-pro-activites-et-techniques-de-communication-lp-atc/) | UFR Sc. de l'éducation | B.Sc. | 7 | 8 | 10  | 11 |
 | 2008-10 | [Object-oriented programming](https://sc-educ.unistra.fr/offre-de-formation/licences/licence-pro-activites-et-techniques-de-communication-lp-atc/) | UFR Sc. de l'éducation | B.Sc. | 7 | 8 | 10  | 11 |
 ||| | 125 | 94 | 116 | 
 
