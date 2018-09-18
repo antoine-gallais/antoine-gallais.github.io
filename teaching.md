@@ -25,7 +25,7 @@ title: Teaching activities (2004 -- 2017)
 | 2011-12  | [Internet routing](http://esiroi.univ-reunion.fr/) | [ESIROI](https://esiroi.univ-reunion.fr/) | M.Sc. | 16 | 7 | 7 | 10 |
 | 2008-10 | [Algorithmics](https://sc-educ.unistra.fr/offre-de-formation/licences/licence-pro-activites-et-techniques-de-communication-lp-atc/) | [UFR Sc. de l'éducation](https://espe.unistra.fr/) | B.Sc. | 7 | 8 | 10  | 11 |
 | 2008-10 | [Object-oriented programming](https://sc-educ.unistra.fr/offre-de-formation/licences/licence-pro-activites-et-techniques-de-communication-lp-atc/) | [UFR Sc. de l'éducation](https://espe.unistra.fr/) | B.Sc. | 7 | 8 | 10  | 11 |
-||| | 125 | 94 | 116 | 
+||| || 125 | 94 | 116 | 
 
 
 ## Teacher
