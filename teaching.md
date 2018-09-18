@@ -11,7 +11,7 @@ title: Teaching activities (2004 -- 2017)
 ## Head teacher (course)
 
 | **Period** | **Course** | **Location** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
-| :------- |:-------------:| -----:|
+| :------- |:----------:| :-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 2014-* | [Internet of Things](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=8\|sem=24\|ue=550) | UFR MAI | M.Sc. | 4 | 4 | - | 15 |
 | 2014-* | [Networks and protocols](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=17\|sem=38\|ue=422) | UFR MAI | B.Sc. | 9 | 9 | 12 | 30 |
 | 2011-* | [Advanced networking](http://www.telecom-physique.fr/formation/departement-informatique-et-reseaux/) | TPS | M.Sc. | 14 | 7 | 8 | 9 |
@@ -29,6 +29,7 @@ title: Teaching activities (2004 -- 2017)
 ## Teacher
 
 **Period** | **Course** | **Location** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
+| :------- |:----------:| :-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 2015-* | [Research introduction](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=8\|sem=33\|ue=706) | UFR MAI | M.Sc. | 4 | - | - | 20 |
 | 2015-* | [Object-oriented programming](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=17\|sem=37\|ue=407) | UFR MAI | B.Sc. | - | 12 | 10 | 35 |
 | 2014-* | [Distributed systems](http://mathinfo.unistra.fr/offre-de-formation/ue/?spec=17\|sem=39\|ue=427) | UFR MAI | B.Sc. | - | 12 | - | 36 |
