@@ -23,4 +23,4 @@ Boulevard Sébastien Brant<br/>
 67400 Illkirch - France<br/>
 gallais(at)unistra.fr
 
-[Inria](http://antoine-gallais.github.io/img/icube.png)
+[ICube](http://antoine-gallais.github.io/img/icube.png)
