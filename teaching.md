@@ -5,8 +5,10 @@ title: Teaching activities (2004 -- 2017)
 
 ## Head teacher (year)
 
-2009 -- 2015 [UFR MAI](http://mathinfo.unistra.fr/) | [Master 2 RISE](http://master-informatique.unistra.fr/rise/rise-formation.php) |
-2014 -- 2017 | [UFR MAI](http://mathinfo.unistra.fr/) | [Lic. Pro. SIL (ARS)](http://mathinfo.unistra.fr/offre-de-formation/licence-professionnelle-sil/licence-pro-info-ars-fi/) 
+| **Period** | **Location** | **Diploma / Year** |
+| :------- |:-----:|:-------------:|:-------------:|
+| 2009 -- 2015 | [UFR MAI](http://mathinfo.unistra.fr/) | [Master 2 RISE](http://master-informatique.unistra.fr/rise/rise-formation.php) |
+| 2014 -- 2017 | [UFR MAI](http://mathinfo.unistra.fr/) | [BSc Pro. SIL (ARS)](http://mathinfo.unistra.fr/offre-de-formation/licence-professionnelle-sil/licence-pro-info-ars-fi/) |
 
 ## Head teacher (course)
 
