@@ -114,10 +114,10 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 ## Scientific visits
 
 * 2017-19: visiting researcher (full secondment) in [Inria Lille - Nord Europe](https://www.inria.fr/centre/lille).
-* October 2012: Visiting scientist in [Inje University](http://www.inje.ac.kr/english/), Busan, Korea.
-* Feb. apr. 2008: Visiting scientist in [Louis Pasteur University](http://www-ulp.u-strasbg.fr/), Strasbourg, France.
-* Oct. Nov. 2006: Visiting scientist in [Keio University](http://www.keio.ac.jp/index-en.html) (http://www.sfc.keio.ac.jp/)[Shonan Fujisawa Campus (SFC)], Tokyo, Japan.
-* Dec. 2005: Visiting scientist in CITI laboratory (MSCD), Lyon, France.
+* October 2012: visiting scientist in [Inje University](http://www.inje.ac.kr/english/), Busan, Korea.
+* Feb. apr. 2008: visiting scientist in [Louis Pasteur University](http://www-ulp.u-strasbg.fr/), Strasbourg, France.
+* Oct. Nov. 2006: visiting scientist in [Keio University](http://www.keio.ac.jp/index-en.html) (http://www.sfc.keio.ac.jp/)[Shonan Fujisawa Campus (SFC)], Tokyo, Japan.
+* Dec. 2005: visiting scientist in CITI laboratory (MSCD), Lyon, France.
 
 
 ## Invited talks
