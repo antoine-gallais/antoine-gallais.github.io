@@ -38,7 +38,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 * 2009-12: DAHLIA (DGCIS/ANSP), Experimental platform of home automation for telehomecare and remote monitoring for elderly.
 * 2008-11: [SensLAB (ANR TLCOM)](http://www.senslab.info/), Very large scale open wireless sensor network testbed.
 
-## TPC membership
+## Technical program committees
 * 2019:
     * CoRes’19 (TPC co-chair)
     * [ICCAIS](http://www.iccais.tech/ctopicpf/)
@@ -84,11 +84,35 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
     * [ICST Adhocnets'11](http://www.adhocnets.org/)
 
 
-## Organization committee membership
-* [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home), [ICST Adhocnets'14 (TPC co-chair)](http://adhocnets.org/2014/show/home), [IEEE Wimob'13 (local co-chair)](http://conferences.computer.org/wimob2013/), [WiSARN'11-Fall (publicity co-chair)](http://researchers.lille.inria.fr/~mitton/WiSARN-fall2011/), [ICST Adhocnets'11 (web chair)](http://adhocnets.org/2011/), [CFIP 2009](http://cfip2009.u-strasbg.fr/), ING (national summer school) 2005.
+## Organization committees
 
+* CoRes’19 (TPC co-chair)
+* [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home)
+* [ICST Adhocnets'14 (TPC co-chair)](http://adhocnets.org/2014/show/home)
+* [IEEE Wimob'13 (local co-chair)](http://conferences.computer.org/wimob2013/)
+* [WiSARN'11-Fall (publicity co-chair)](http://researchers.lille.inria.fr/~mitton/WiSARN-fall2011/)
+* [ICST Adhocnets'11 (web chair)](http://adhocnets.org/2011/)
+* [CFIP'09](http://cfip2009.u-strasbg.fr/)
+* ING'05 (national summer school)
+
+## PhD committees
+
+* 2018
+    * Reviewer of "Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks", by François Lemercier (IMT Atlantique, Rennes, France)
+    * Examiner of "Intelligent sensors for wildlife conservation", by Solomon Petrus le Roux (Stellenbosch University, South Africa)
+* 2017
+    * Examiner of  "Adaptive MAC layer for interference limited WSN", by Viktor Toldov (USTL / Inria Lille - Nord Europe)
+* 2016
+    * Reviewer of "Scheduling strategies to improve quality of service for heterogeneous data over resource constrained wireless mesh networks", by Sajid Mubashir Sheikh (Stellenbosch University, South Africa)
+* 2015
+    * Examiner of "Improving Medium Access for Dynamic Wireless Sensor Networks", by Georgios Papadopoulos (Université de Strasbourg / ICube)
+* 2013
+    * Examiner of "Geographic routing for wireless actor and sensor networks", by Nicolas Gouvy (USTL / Inria Lille - Nord Europe)
+    * Reviewer of "A Cross-layer Communication Framework for Wireless Multimedia Sensor Networks", by Zara Hamid (NUST Pakistan)
+    * Examiner of "WSN auto-configuration and adaptation for remote healthcare", by Julien Beaudaux (Université de Strasbourg / ICube)
 
 ## Scientific visits
+
 * 2017-19: visiting researcher (full secondment) in [Inria Lille - Nord Europe](https://www.inria.fr/centre/lille).
 * October 2012: Visiting scientist in [Inje University](http://www.inje.ac.kr/english/), Busan, Korea.
 * Feb. apr. 2008: Visiting scientist in [Louis Pasteur University](http://www-ulp.u-strasbg.fr/), Strasbourg, France.
