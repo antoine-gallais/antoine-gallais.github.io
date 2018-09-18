@@ -13,13 +13,9 @@ My office: A205<br/>
 antoine.gallais(at)inria.fr<br/>
 Phone: +33(0)359.577.884
 
-![Inria][img/inria.png =150px]
-
 ## Reach me at ICube
 
 [ICube](http://icube.unistra.fr), Pôle API<br/>
 Boulevard Sébastien Brant<br/>
 67400 Illkirch - France<br/>
 gallais(at)unistra.fr
-
-![ICube][img/icube.png =150px]
