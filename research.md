@@ -31,10 +31,10 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 * 2016-2017: SemSeN - Semantic Sensor Networks for Smart Factories (API ICube).
 * 2015: Diag@IoT (Idex project, University of Strasbourg).
 * 2014-15: [UBIQUITY (API ICube)](http://icube-reseaux.unistra.fr/en/index.php/Projects/Ubiquity), Auto-configurable Wireless Sensor Network for urban climatology investigation.
-* 2012-14: [IRIS](http://www.anr-iris.fr/) ([ANR INFRA](http://www.agence-nationale-recherche.fr/programmes-de-recherche/appel-detail/infrastructures-materielles-et-logicielles-pour-la-societe-numerique-infra-2011/)), All IP Networks for the FutuRe Internet of Smart Objects.
+* 2012-14: IRIS ([ANR INFRA](http://www.agence-nationale-recherche.fr/programmes-de-recherche/appel-detail/infrastructures-materielles-et-logicielles-pour-la-societe-numerique-infra-2011/)), All IP Networks for the FutuRe Internet of Smart Objects.
 * 2012-14: EXPRESS (PHC, programme STAR), EXPerimental REsearch in Sensor Systems.
 * 2011-19: [FIT](http://fit-equipex.fr/) ([Investissements d'avenir, Equipex](http://www.enseignementsup-recherche.gouv.fr/cid54722/investissements-d-avenir-340-millions-d-euros-pour-les-52-laureats-de-la-premiere-vague-de-l-appel-a-projet-equipements-d-excellence.html)), Future Internet of Things.
-* 2010-11: [EXPRIMA (BQR Unistra)](http://exprima.u-strasbg.fr/), Experimentations for wireless mesh networks.
+* 2010-11: EXPRIMA (BQR Unistra), Experimentations for wireless mesh networks.
 * 2009-12: DAHLIA (DGCIS/ANSP), Experimental platform of home automation for telehomecare and remote monitoring for elderly.
 * 2008-11: [SensLAB (ANR TLCOM)](http://www.senslab.info/), Very large scale open wireless sensor network testbed.
 
@@ -116,7 +116,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 * 2017-19: visiting researcher (full secondment) in [Inria Lille - Nord Europe](https://www.inria.fr/centre/lille).
 * October 2012: visiting scientist in [Inje University](http://www.inje.ac.kr/english/), Busan, Korea.
 * Feb. apr. 2008: visiting scientist in [Louis Pasteur University](http://www-ulp.u-strasbg.fr/), Strasbourg, France.
-* Oct. Nov. 2006: visiting scientist in [Keio University](http://www.keio.ac.jp/index-en.html) (http://www.sfc.keio.ac.jp/)[Shonan Fujisawa Campus (SFC)], Tokyo, Japan.
+* Oct. Nov. 2006: visiting scientist in [Keio University](http://www.keio.ac.jp/index-en.html) [Shonan Fujisawa Campus (SFC)](http://www.sfc.keio.ac.jp/), Tokyo, Japan.
 * Dec. 2005: visiting scientist in CITI laboratory (MSCD), Lyon, France.
 
 
