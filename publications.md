@@ -3,6 +3,17 @@ layout: page
 title: Publications
 ---
 
+My [Erdös number](http://www.oakland.edu/enp/) is 3: A. Gallais / I. Stojmenovic / P. Valtr / P. Erdös
+
+----
+Numerous other websites propose a (more or less) up-to-date publication list:
+* [Google Scholar](http://scholar.google.com/citations?user=9fmzAvwAAAAJ)
+* [ICube's page](http://icube-publis.unistra.fr/appli.php?author=Antoine%2520Gallais)
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=8953127200)
+* [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gallais:Antoine.html)
+* [ACM Digital Library](http://dl.acm.org.scd-rproxy.u-strasbg.fr/author_page.cfm?id=81100409181&coll=DL&dl=GUIDE&CFID=513614456&CFTOKEN=21591278)
+* [IEEE Xplore](http://ieeexplore.ieee.org.scd-rproxy.u-strasbg.fr/search/searchresult.jsp?reload=true&searchWithin%253Dp_First_Names%253AAntoine%2526searchWithin%253Dp_Last_Names%253AGallais%2526sortType%253Ddesc_p_Citation_Count%2526matchBoolean%253Dtrue%2526queryText%253D%2528p_Authors%253ABettstetter%252C+Christian%2529&rowsPerPage=75&pageNumber=1&resultAction=ROWS_PER_PAGE.)
+
 # Books
 
 * N. Mitton, M. Erol-Kantarci, A. Gallais, S. Papavassiliou, [Proceedings of Ad Hoc Networks - 7th International Conference, AdHocHets 2015, San Remo, Italy, September 1-2, 2015](http://www.springer.com/la/book/9783319250663), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 155, Springer 2015, ISBN 978-3-319-25066-3.
