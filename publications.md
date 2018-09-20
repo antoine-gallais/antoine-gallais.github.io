@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-My [Erdös number](http://www.oakland.edu/enp/) is 3: 
-    A. Gallais / I. Stojmenovic / P. Valtr / P. Erdös
+My [Erdös number](http://www.oakland.edu/enp/) is 3:
+    A. Gallais / [I. Stojmenovic](https://en.wikipedia.org/wiki/Ivan_Stojmenovi%C4%87) / [P. Valtr](https://kam.mff.cuni.cz/~valtr/) / [P. Erdös](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s)
 
 ----
 Numerous other websites propose a (more or less) up-to-date publication list:
