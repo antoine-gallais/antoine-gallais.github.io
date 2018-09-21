@@ -98,18 +98,18 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 ## PhD committees
 
 * 2018
-    * Reviewer of "Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks", by [François Lemercier](http://www.theses.fr/s201637) (IMT Atlantique, Rennes, France, under supervision of Prof. N. Montavont and Prof. L. Toutain).
-    * Examiner of "Intelligent sensors for wildlife conservation", by [Solomon Petrus le Roux](http://dsp.sun.ac.za/~trn/postgraduates.html) (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
+    * Reviewer of ["Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks"](http://www.theses.fr/s201637), by François Lemercier (IMT Atlantique, Rennes, France, under supervision of Prof. N. Montavont and Prof. L. Toutain).
+    * Examiner of ["Intelligent sensors for wildlife conservation"](http://dsp.sun.ac.za/~trn/postgraduates.html), by Solomon Petrus le Roux (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
 * 2017
-    * Examiner of  "Adaptive MAC layer for interference limited WSN", by [Viktor Toldov](https://www.theses.fr/201051729) (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. L. Clavier and Dr. N. Mitton).
+    * Examiner of  ["Adaptive MAC layer for interference limited WSN"](https://www.theses.fr/201051729), by Viktor Toldov (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. L. Clavier and Dr. N. Mitton).
 * 2016
-    * Reviewer of "Scheduling strategies to improve quality of service for heterogeneous data over resource constrained wireless mesh networks", by [Sajid Mubashir Sheikh](http://scholar.sun.ac.za/handle/10019.1/101222?show=full)  (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
+    * Reviewer of ["Scheduling strategies to improve quality of service for heterogeneous data over resource constrained wireless mesh networks"](http://scholar.sun.ac.za/handle/10019.1/101222?show=full), by Sajid Mubashir Sheikh (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
 * 2015
-    * Examiner of "Improving Medium Access for Dynamic Wireless Sensor Networks", by [Georgios Papadopoulos](http://www.theses.fr/2015STRAD034) (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
+    * Examiner of ["Improving Medium Access for Dynamic Wireless Sensor Networks"](http://www.theses.fr/2015STRAD034), by Georgios Papadopoulos (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
 * 2013
-    * Examiner of "Geographic routing for wireless actor and sensor networks", by [Nicolas Gouvy](https://www.theses.fr/2013LIL10185) (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. D. Simplot-Ryl and Dr. N. Mitton.
+    * Examiner of ["Geographic routing for wireless actor and sensor networks"](https://www.theses.fr/2013LIL10185), by Nicolas Gouvy (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. D. Simplot-Ryl and Dr. N. Mitton.
     * Reviewer of "A Cross-layer Communication Framework for Wireless Multimedia Sensor Networks", by [Zara Hamid](http://ww3.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=2092) (NUST, Pakistan, under supervision of Dr. F. Bashir and Dr. H. Afzal).
-    * Examiner of "WSN auto-configuration and adaptation for remote healthcare", by [Julien Beaudaux](https://www.theses.fr/2013STRAD020) (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
+    * Examiner of ["WSN auto-configuration and adaptation for remote healthcare"](https://www.theses.fr/2013STRAD020), by Julien Beaudaux (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
 
 ## Scientific visits
 
@@ -122,6 +122,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 
 ## Invited talks
 
+* April 23 & 24, 2019: International Conference on Mobile, Secure and Programmable Networking (MSPN), Mohammedia, Morocco.
 * April 28 & 29, 2018: [Innov'School Network of Things (ISNOT)](http://www.supcom.mincom.tn/innovcom/isnot2018/img/afficheISNOT2018.pdf), Gammarth, Tunisia.
 * November 25 & 26, 2017: [GDG devfest IoT workshop](http://devfest.ieee.tn/), Sfax, Tunisia.
 * December 17, 2009: [SensorNets, international winter school, 2009](http://sensornets09.cister-isep.info/), Monastir, Tunisia.
