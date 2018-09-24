@@ -27,8 +27,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
-* K. Kritsis , G. Papadopoulos , A. Gallais, P. Chatzimisios and F. Theoleyre, [A Tutorial on Performance Evaluation and Validation Methodology for Low-Power and Lossy Networks](https://doi.org/10.1109/COMST.2018.2820810), to appear in IEEE Communications Surveys 
-& Tutorials, 2018.
+* K. Kritsis , G. Papadopoulos , A. Gallais, P. Chatzimisios and F. Theoleyre, [A Tutorial on Performance Evaluation and Validation Methodology for Low-Power and Lossy Networks](https://doi.org/10.1109/COMST.2018.2820810), in IEEE Communications Surveys 
+& Tutorials, Vol. 20:3, pp. 1799-1825, thirdquarter 2018.
 * R. Teles Hermeto, A. Gallais and F. Theoleyre, [Impact of the Initial Preferred Parent Choice in Wireless Industrial Low-Power Networks](http://mmc.committees.comsoc.org/files/2018/01/MMTC_Communication_Frontier_Nov_2017_R2.pdf), In IEEE COMSOC MMTC Communications - Frontiers. pp. 43-46, Vol.12, No.6, November 2017. 
 * R. Teles Hermeto, A. Gallais and F. Theoleyre, [Scheduling for IEEE802.15.4-TSCH and Slow Channel Hopping MAC in Low Power Industrial Wireless Networks: A Survey](http://authors.elsevier.com/sd/article/S0140366417301147), In Elsevier Computer Communications, vol. 114, pp. 84-105, December 2017.
 * G.~Z. Papadopoulos, A. Gallais, G. Schreiner, E. Jou, and T. Noel,  [Thorough IoT testbed characterization: From proof-of-concept to repeatable experimentations](https://doi.org/10.1016/j.comnet.2017.03.012, in Elsevier Computer Networks, vol. 119, pp. 86-101, June 2017.
