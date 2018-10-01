@@ -87,6 +87,8 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 ## Organization committees
 
 * CoRes’19 (TPC co-chair)
+* [IIoT days (co-chair)](http://iiot-2018.cnrs.fr/)
+* [IEEE ICT'16, special session on Industrial IoT (co-chair)](https://ict-2016.org/pdf/ICT-2016_SS10-Call_for_Papers.pdf)
 * [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home)
 * [ICST Adhocnets'14 (TPC co-chair)](http://adhocnets.org/2014/show/home)
 * [IEEE Wimob'13 (local co-chair)](http://conferences.computer.org/wimob2013/)
