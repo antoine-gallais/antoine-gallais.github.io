@@ -41,7 +41,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 ## Technical program committees
 * 2019:
     * CoRes’19 (TPC co-chair)
-    * [ICCAIS](http://www.iccais.tech/ctopicpf/)
+    * [ICCAIS'19](http://www.iccais.tech/ctopicpf/)
     * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
     * [IEEE ICNC'19](http://www.conf-icnc.org/2019/)
 * 2018: 
