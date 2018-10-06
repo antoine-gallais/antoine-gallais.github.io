@@ -5,6 +5,10 @@ title: Research activities
 
 ## PhD Students
 I have / had the pleasure to co-advise or externally advise the following PhD students:
+* L. Miller, University of Strasbourg, on secure work-flow access control
+    * Funding: [Cisco](https://www.cisco.com/) 
+    * Defense expected in 2021
+    * Co-supervised with [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
 * [M. A. Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
     * Defense expected in 2019
