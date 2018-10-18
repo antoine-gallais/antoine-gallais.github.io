@@ -106,7 +106,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 * 2018
     * Reviewer of ["Multiple access techniques for very low rate satellite communication systems"](http://www.theses.fr/s147336), by Hugo Chelle (Airbus and IRIT - Université de Toulouse, France, under supervision of Prof. A.-L. Beylot).
     * Reviewer of ["Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks"](http://www.theses.fr/s201637), by François Lemercier (Itron and IMT Atlantique, Rennes, France, under supervision of Prof. N. Montavont and Prof. L. Toutain).
-    * Examiner of ["Intelligent sensors for wildlife conservation"](http://dsp.sun.ac.za/~trn/postgraduates.html), by Solomon Petrus le Roux (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
+    * Reviewer of ["Intelligent sensors for wildlife conservation"](http://dsp.sun.ac.za/~trn/postgraduates.html), by Solomon Petrus le Roux (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
 * 2017
     * Examiner of  ["Adaptive MAC layer for interference limited WSN"](https://www.theses.fr/201051729), by Viktor Toldov (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. L. Clavier and Dr. N. Mitton).
 * 2016
