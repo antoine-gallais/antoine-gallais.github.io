@@ -60,6 +60,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
     * [ICST Adhocnets'18](http://adhocnets.org/2018/show/home)
 * 2017: 
     * [IEEE ICNC'17](http://www.conf-icnc.org/2017/)
+    * [IEEE GlobalSIP'17](http://www.2017.ieeeglobalsip.org)
     * [IEEE GIIS'17](http://www.giis-conf.org/)
 * 2016: 
     * [WPMC'16](http://www.wpmc2016.org/)
