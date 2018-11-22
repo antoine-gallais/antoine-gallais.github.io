@@ -1,3 +1,8 @@
+---
+layout: page
+title: Service
+---
+
 ## Technical program committees
 * 2019:
     * CoRes’19 (TPC co-chair)
