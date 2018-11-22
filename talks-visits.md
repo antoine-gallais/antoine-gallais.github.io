@@ -1,3 +1,8 @@
+---
+layout: page
+title: Talks and visits
+---
+
 ## Invited talks
 
 * April 23 & 24, 2019: [International Conference on Mobile, Secure and Programmable Networking (MSPN)](http://www.adda-association.org/mspn/Home.html), Mohammedia, Morocco.
