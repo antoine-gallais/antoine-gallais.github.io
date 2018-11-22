@@ -16,6 +16,23 @@ title: Service
 * [CFIP'09](http://cfip2009.u-strasbg.fr/)
 * ING'05 (national summer school)
 
+## PhD committees
+
+* 2018
+    * Reviewer of ["Multiple access techniques for very low rate satellite communication systems"](http://www.theses.fr/s147336), by Hugo Chelle (Airbus and IRIT - Université de Toulouse, France, under supervision of Prof. A.-L. Beylot).
+    * Reviewer of ["Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks"](http://www.theses.fr/s201637), by François Lemercier (Itron and IMT Atlantique, Rennes, France, under supervision of Prof. N. Montavont and Prof. L. Toutain).
+    * Reviewer of ["Intelligent sensors for wildlife conservation"](http://dsp.sun.ac.za/~trn/postgraduates.html), by Solomon Petrus le Roux (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
+* 2017
+    * Examiner of  ["Adaptive MAC layer for interference limited WSN"](https://www.theses.fr/201051729), by Viktor Toldov (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. L. Clavier and Dr. N. Mitton).
+* 2016
+    * Reviewer of ["Scheduling strategies to improve quality of service for heterogeneous data over resource constrained wireless mesh networks"](http://scholar.sun.ac.za/handle/10019.1/101222?show=full), by Sajid Mubashir Sheikh (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
+* 2015
+    * Examiner of ["Improving Medium Access for Dynamic Wireless Sensor Networks"](http://www.theses.fr/2015STRAD034), by Georgios Papadopoulos (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
+* 2013
+    * Examiner of ["Geographic routing for wireless actor and sensor networks"](https://www.theses.fr/2013LIL10185), by Nicolas Gouvy (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. D. Simplot-Ryl and Dr. N. Mitton.
+    * Reviewer of "A Cross-layer Communication Framework for Wireless Multimedia Sensor Networks", by [Zara Hamid](http://ww3.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=2092) (NUST, Pakistan, under supervision of Dr. F. Bashir and Dr. H. Afzal).
+    * Examiner of ["WSN auto-configuration and adaptation for remote healthcare"](https://www.theses.fr/2013STRAD020), by Julien Beaudaux (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
+    
 ## Technical program committees
 * 2019:
     * CoRes’19 (TPC co-chair)
@@ -71,20 +88,3 @@ ACM Transactions on Sensor Networks, AHSWN, IEEE Transactions on Evolutionary Co
 ### Conferences
 
 ICST Adhocnets, IEEE GIIS, IEEE Globecom/AHSN, IEEE HPCC, IEEE PIMRC, IEEE SECON, IEEE WCNC, IEEE WiMob.
-
-## PhD committees
-
-* 2018
-    * Reviewer of ["Multiple access techniques for very low rate satellite communication systems"](http://www.theses.fr/s147336), by Hugo Chelle (Airbus and IRIT - Université de Toulouse, France, under supervision of Prof. A.-L. Beylot).
-    * Reviewer of ["Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks"](http://www.theses.fr/s201637), by François Lemercier (Itron and IMT Atlantique, Rennes, France, under supervision of Prof. N. Montavont and Prof. L. Toutain).
-    * Reviewer of ["Intelligent sensors for wildlife conservation"](http://dsp.sun.ac.za/~trn/postgraduates.html), by Solomon Petrus le Roux (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
-* 2017
-    * Examiner of  ["Adaptive MAC layer for interference limited WSN"](https://www.theses.fr/201051729), by Viktor Toldov (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. L. Clavier and Dr. N. Mitton).
-* 2016
-    * Reviewer of ["Scheduling strategies to improve quality of service for heterogeneous data over resource constrained wireless mesh networks"](http://scholar.sun.ac.za/handle/10019.1/101222?show=full), by Sajid Mubashir Sheikh (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
-* 2015
-    * Examiner of ["Improving Medium Access for Dynamic Wireless Sensor Networks"](http://www.theses.fr/2015STRAD034), by Georgios Papadopoulos (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
-* 2013
-    * Examiner of ["Geographic routing for wireless actor and sensor networks"](https://www.theses.fr/2013LIL10185), by Nicolas Gouvy (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. D. Simplot-Ryl and Dr. N. Mitton.
-    * Reviewer of "A Cross-layer Communication Framework for Wireless Multimedia Sensor Networks", by [Zara Hamid](http://ww3.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=2092) (NUST, Pakistan, under supervision of Dr. F. Bashir and Dr. H. Afzal).
-    * Examiner of ["WSN auto-configuration and adaptation for remote healthcare"](https://www.theses.fr/2013STRAD020), by Julien Beaudaux (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
