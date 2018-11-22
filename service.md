@@ -3,6 +3,19 @@ layout: page
 title: Service
 ---
 
+## Organization committees
+
+* CoRes’19 (TPC co-chair)
+* [IIoT days 2018 (co-chair)](http://iiot-2018.cnrs.fr/)
+* [IEEE ICT'16, special session on Industrial IoT (co-chair)](https://ict-2016.org/pdf/ICT-2016_SS10-Call_for_Papers.pdf)
+* [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home)
+* [ICST Adhocnets'14 (TPC co-chair)](http://adhocnets.org/2014/show/home)
+* [IEEE Wimob'13 (local co-chair)](http://conferences.computer.org/wimob2013/)
+* [WiSARN'11-Fall (publicity co-chair)](http://researchers.lille.inria.fr/~mitton/WiSARN-fall2011/)
+* [ICST Adhocnets'11 (web chair)](http://adhocnets.org/2011/)
+* [CFIP'09](http://cfip2009.u-strasbg.fr/)
+* ING'05 (national summer school)
+
 ## Technical program committees
 * 2019:
     * CoRes’19 (TPC co-chair)
@@ -48,21 +61,7 @@ title: Service
     * [IEEE ISWTA'12](http://www.mypels.org/iswta2012/)
 * 2011: 
     * [ICST Adhocnets'11](http://www.adhocnets.org/)
-
-
-## Organization committees
-
-* CoRes’19 (TPC co-chair)
-* [IIoT days 2018 (co-chair)](http://iiot-2018.cnrs.fr/)
-* [IEEE ICT'16, special session on Industrial IoT (co-chair)](https://ict-2016.org/pdf/ICT-2016_SS10-Call_for_Papers.pdf)
-* [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home)
-* [ICST Adhocnets'14 (TPC co-chair)](http://adhocnets.org/2014/show/home)
-* [IEEE Wimob'13 (local co-chair)](http://conferences.computer.org/wimob2013/)
-* [WiSARN'11-Fall (publicity co-chair)](http://researchers.lille.inria.fr/~mitton/WiSARN-fall2011/)
-* [ICST Adhocnets'11 (web chair)](http://adhocnets.org/2011/)
-* [CFIP'09](http://cfip2009.u-strasbg.fr/)
-* ING'05 (national summer school)
-
+    
 ## External reviewer
 
 ### Journals
