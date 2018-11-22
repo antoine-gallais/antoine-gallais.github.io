@@ -130,7 +130,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
 
 ## Invited talks
 
-* April 23 & 24, 2019: International Conference on Mobile, Secure and Programmable Networking (MSPN), Mohammedia, Morocco.
+* April 23 & 24, 2019: [International Conference on Mobile, Secure and Programmable Networking (MSPN)](http://www.adda-association.org/mspn/Home.html), Mohammedia, Morocco.
 * April 28 & 29, 2018: [Innov'School Network of Things (ISNOT)](http://www.supcom.mincom.tn/innovcom/isnot2018/img/afficheISNOT2018.pdf), Gammarth, Tunisia.
 * November 25 & 26, 2017: [GDG devfest IoT workshop](http://devfest.ieee.tn/), Sfax, Tunisia.
 * December 17, 2009: [SensorNets, international winter school, 2009](http://sensornets09.cister-isep.info/), Monastir, Tunisia.
