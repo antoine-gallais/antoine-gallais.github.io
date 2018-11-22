@@ -25,6 +25,8 @@ description: Professional webpage
 navbar-links:
   Research: "research"
   Publications: "publications"
+  Service: "service"
+  Talks and visits: "talks-visits"
   Teaching: "teaching"
   Contact: "contact"
   
