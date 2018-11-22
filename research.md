@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Research activities
+title: Students and projects
 ---
 
 ## PhD Students
