@@ -15,6 +15,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * [ACM Digital Library](https://dl.acm.org/author_page.cfm?id=81100409181)
 * [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?sortType=newest&searchWithin=%22First%20Name%22:%22Antoine%22&searchWithin=%22Last%20Name%22:%22Gallais%22)
 
+[Publications sorted by year](publicationsByYear)
+
 # Books
 
 * N. Mitton, M. Erol-Kantarci, A. Gallais, S. Papavassiliou, [Proceedings of Ad Hoc Networks - 7th International Conference, AdHocHets 2015, San Remo, Italy, September 1-2, 2015](http://www.springer.com/la/book/9783319250663), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 155, Springer 2015, ISBN 978-3-319-25066-3.
