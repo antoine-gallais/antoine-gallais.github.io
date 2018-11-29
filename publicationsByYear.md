@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications sorted by year
+title: Publications
 ---
 
 My [Erdös number](http://www.oakland.edu/enp/) is 3:
@@ -14,6 +14,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gallais:Antoine.html)
 * [ACM Digital Library](https://dl.acm.org/author_page.cfm?id=81100409181)
 * [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?sortType=newest&searchWithin=%22First%20Name%22:%22Antoine%22&searchWithin=%22Last%20Name%22:%22Gallais%22)
+
+[Publications sorted by type](/publications)
 
 # 2018
 * K. Kritsis , G. Papadopoulos , A. Gallais, P. Chatzimisios and F. Theoleyre, [A Tutorial on Performance Evaluation and Validation Methodology for Low-Power and Lossy Networks](https://doi.org/10.1109/COMST.2018.2820810), in IEEE Communications Surveys 
