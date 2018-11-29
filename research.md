@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Students and projects
+title: Research activities
 ---
+
+My research interests lie in ad hoc and sensor networks, and more generally in the Internet of Things (IoT) systems. After investing localized connected area coverage solutions during my PhD period (2004-2007), I have been tackling medium access control (MAC) and routing issues in IoT networks. For all the following activities, I consider fault-tolerance and security as two major cross-cutting challenges that must be addressed carefully. I especially focused on preamble-sampling approaches in order to enable a priori configuration of heterogeneous Low-Power Listening (LPL) values, runtime adaptation of preamble and sampling periods and communications of mobile nodes with a static infrastructure of LPL devices. Over the past few years, I have investigated the industrial Internet of Things (IIoT) and its emerging networking protocols to guarantee bounded delays and consumption. I am considering protocol stacks that are in the scope of some IETF working groups (e.g., 6lowPAN, roll, 6tsch) and which consider synchronous medium access (e.g. IEEE 802.15.4 standard). I am studying distributed strategies to schedule wireless transmissions, while reducing control overhead and taking into account network dynamics. Overall, I have been particularly interested in performance evaluation and research methodology to obtain scientific results that can be used and reproduced by the community.
 
 ## PhD Students
 I have / had the pleasure to co-advise or externally advise the following PhD students:
