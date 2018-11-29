@@ -15,7 +15,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * [ACM Digital Library](https://dl.acm.org/author_page.cfm?id=81100409181)
 * [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?sortType=newest&searchWithin=%22First%20Name%22:%22Antoine%22&searchWithin=%22Last%20Name%22:%22Gallais%22)
 
-[Publications sorted by year](/[publicationsByYear)
+[Publications sorted by year](/publicationsByYear)
 
 # Books
 
