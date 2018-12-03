@@ -36,6 +36,7 @@ title: Service
 ## Technical program committees
 * 2019:
     * CoRes’19 (TPC co-chair)
+    * Wi-DroIT'19
     * [ICCAIS'19](http://www.iccais.tech/ctopicpf/)
     * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
     * [IEEE ICNC'19](http://www.conf-icnc.org/2019/)
