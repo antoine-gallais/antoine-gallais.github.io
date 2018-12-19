@@ -38,7 +38,7 @@ title: Service
     * [IARIA ICWMC'19](http://www.iaria.org/conferences2019/ICWMC19.html)
     * [IARIA INNOV'19](http://www.iaria.org/conferences2019/INNOV19.html)
     * [CoRes’19 (TPC co-chair)](https://www.irit.fr/cores2019/)
-    * [Wi-DroIT'19] (https://widroit2019.loria.fr/)
+    * [Wi-DroIT'19](https://widroit2019.loria.fr/)
     * [ICCAIS'19](http://www.iccais.tech/ctopicpf/)
     * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
     * [IEEE ICNC'19](http://www.conf-icnc.org/2019/)
