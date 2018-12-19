@@ -5,7 +5,7 @@ title: Service
 
 ## Organization committees
 
-* CoRes’19 (TPC co-chair)
+* [CoRes’19 (TPC co-chair)](https://www.irit.fr/cores2019/)
 * [IIoT days 2018 (co-chair)](http://iiot-2018.cnrs.fr/)
 * [IEEE ICT'16, special session on Industrial IoT (co-chair)](https://ict-2016.org/pdf/ICT-2016_SS10-Call_for_Papers.pdf)
 * [ICST Adhocnets'15 (TPC co-chair)](http://adhocnets.org/2015/show/home)
@@ -35,8 +35,10 @@ title: Service
     
 ## Technical program committees
 * 2019:
-    * CoRes’19 (TPC co-chair)
-    * Wi-DroIT'19
+    * [IARIA ICWMC'19](http://www.iaria.org/conferences2019/ICWMC19.html)
+    * [IARIA INNOV'19](http://www.iaria.org/conferences2019/INNOV19.html)
+    * [CoRes’19 (TPC co-chair)](https://www.irit.fr/cores2019/)
+    * [Wi-DroIT'19] (https://widroit2019.loria.fr/)
     * [ICCAIS'19](http://www.iccais.tech/ctopicpf/)
     * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
     * [IEEE ICNC'19](http://www.conf-icnc.org/2019/)
