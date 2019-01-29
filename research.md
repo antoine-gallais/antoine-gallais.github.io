@@ -9,7 +9,11 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 
 ## PhD Students
 I have / had the pleasure to co-advise or externally advise the following PhD students:
-* L. Miller, University of Strasbourg, on secure work-flow access control
+* Renato J Neto, University of Strasbourg, on Nano-Autonomous Systems for a Privacy Aware Internet of Things
+    * Funding: [ANR JCJC (nano-NET project)](http://www.agence-nationale-recherche.fr/financer-votre-projet/aapg2018/aapg-2018-resultats/) 
+    * Defense expected in 2022
+    * Co-supervised with [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/) and [Dr. Fabrice Théoleyre](https://www.theoleyre.eu/)
+* L. Miller, University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
     * Funding: [Cisco](https://www.cisco.com/) 
     * Defense expected in 2021
     * Co-supervised with [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
