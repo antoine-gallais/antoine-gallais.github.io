@@ -94,4 +94,4 @@ ACM Transactions on Sensor Networks, AHSWN, IEEE Transactions on Evolutionary Co
 
 ### Conferences
 
-ICST Adhocnets, IEEE GIIS, IEEE Globecom/AHSN, IEEE HPCC, IEEE PIMRC, IEEE SECON, IEEE WCNC, IEEE WiMob.
+ICST Adhocnets, IEEE GIIS, IEEE Globecom/AHSN, IEEE Infocom, IEEE HPCC, IEEE PIMRC, IEEE SECON, IEEE WCNC, IEEE WiMob.
