@@ -36,7 +36,8 @@ title: Service
     
 ## Technical program committees
 * 2019:
-    * [IARIA MOBILITY'19](http://www.iaria.org/conferences2019/MOBILITY19.html) 
+    * [IARIA EMERGING'19](http://www.iaria.org/conferences2019/EMERGING19.html)
+    * [IARIA MOBILITY'19](http://www.iaria.org/conferences2019/MOBILITY19.html)
     * [IARIA ACCSE'19](http://www.iaria.org/conferences2019/ACCSE19.html)
     * [IEEE DIPI'19 (in conjunction with IEEE WOWMOM'19)](http://cnd.iit.cnr.it/dipi2019/)
     * [IARIA ICWMC'19](http://www.iaria.org/conferences2019/ICWMC19.html)
