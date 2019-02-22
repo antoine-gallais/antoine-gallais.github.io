@@ -5,7 +5,7 @@ title: Service
 
 ## Organization committees
 
-* [IEEE SAS'19, special session on Large-scale experimental validation of WSN (co-chair)](http://sensorapps.org/pages/special-sessions-0)
+* [IEEE SAS'19, special session on Wireless Sensors Networks (co-chair)](http://sensorapps.org/pages/special-sessions-0)
 * [CoRes’19 (TPC co-chair)](https://www.irit.fr/cores2019/)
 * [IIoT days 2018 (co-chair)](http://iiot-2018.cnrs.fr/)
 * [IEEE ICT'16, special session on Industrial IoT (co-chair)](https://ict-2016.org/pdf/ICT-2016_SS10-Call_for_Papers.pdf)
