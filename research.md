@@ -40,12 +40,17 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
  
 ## Research projects
 * 2018-2021: nano-NET ([ANR JCJC](http://www.agence-nationale-recherche.fr/suivi-bilan/historique-des-appels-a-projets/appel-detail1/appel-a-projets-generique-2018/)), Nano Autonomous Systems for a totally Decentralized Internet.
-* 2016-2017: SemSeN - Semantic Sensor Networks for Smart Factories (API ICube).
+* 2017-2018: NETINDUS ([PHC Tournesol](https://www.campusfrance.org/fr/tournesol-communaute-francaise)), 
+* 2016-2017: SEMNET - Semantic Sensor Networks for Smart Factories (API ICube).
+* 2015: FIT-III ([MoU](https://iot.snsi.iii.org.tw/)), Memorandum of Understanding between FIT IoT-lab and Institute for Information Industry (Taiwan)
 * 2015: Diag@IoT (Idex project, University of Strasbourg).
 * 2014-15: [UBIQUITY (API ICube)](http://icube-reseaux.unistra.fr/en/index.php/Projects/Ubiquity), Auto-configurable Wireless Sensor Network for urban climatology investigation.
 * 2012-14: IRIS ([ANR INFRA](http://www.agence-nationale-recherche.fr/programmes-de-recherche/appel-detail/infrastructures-materielles-et-logicielles-pour-la-societe-numerique-infra-2011/)), All IP Networks for the FutuRe Internet of Smart Objects.
 * 2012-14: EXPRESS (PHC, programme STAR), EXPerimental REsearch in Sensor Systems.
+* 2012– 2013: EXPRESS ([PHC STAR](https://www.campusfrance.org/fr/star)), EXPerimental REsearch in Sensor Systems.
 * 2011-19: [FIT](http://fit-equipex.fr/) ([Investissements d'avenir, Equipex](http://www.enseignementsup-recherche.gouv.fr/cid54722/investissements-d-avenir-340-millions-d-euros-pour-les-52-laureats-de-la-premiere-vague-de-l-appel-a-projet-equipements-d-excellence.html)), Future Internet of Things.
 * 2010-11: EXPRIMA (BQR Unistra), Experimentations for wireless mesh networks.
 * 2009-12: DAHLIA (DGCIS/ANSP), Experimental platform of home automation for telehomecare and remote monitoring for elderly.
 * 2008-11: [SensLAB (ANR TLCOM)](http://www.senslab.info/), Very large scale open wireless sensor network testbed.
+* 2006–09: CNRS/WIDE (ANR), Collaboration internationale CNRS, JST (Japon)
+
