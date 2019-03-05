@@ -39,7 +39,7 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
     * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/) and [Dr. Julien Montavont](https://clarinet.u-strasbg.fr/~montavont/)
  
 ## Research projects
-* 2018-2021: Secure work-flow access control (Cisco)
+* 2018-2021: Secure workflow access control (Cisco)
 * 2018-2021: nano-NET ([ANR JCJC](http://www.agence-nationale-recherche.fr/suivi-bilan/historique-des-appels-a-projets/appel-detail1/appel-a-projets-generique-2018/)), Nano Autonomous Systems for a totally Decentralized Internet.
 * 2017-2018: NETINDUS ([PHC Tournesol](https://www.campusfrance.org/fr/tournesol-communaute-francaise)), 
 * 2016-2017: SEMNET - Semantic Sensor Networks for Smart Factories (API ICube).
