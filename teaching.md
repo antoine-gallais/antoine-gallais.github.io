@@ -18,12 +18,12 @@ subtitle: (2004 -- 2017)
 
 | **Period** | **Course** | **Location** | **ECTS** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
 | :------- |:----------:| :-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 2009-17  | System and network security | [UFR MAI](http://mathinfo.unistra.fr/) | 3 | M.Sc. | 20 | - | 17 | 22 |
-| 2008-13  | Network security | [UFR MAI](http://mathinfo.unistra.fr/) | 4 | B.Sc. | 16 | - | 24  | 15 |
-| 2014-17 | Internet of Things | [UFR MAI](http://mathinfo.unistra.fr/) | 3 | M.Sc. | 4 | 4 | - | 15 |
-| 2014-17 | Networks and protocols | [UFR MAI](http://mathinfo.unistra.fr/) | 6 | B.Sc. | 9 | 9 | 12 | 30 |
-| 2008-17  | Networking |[UFR MAI](http://mathinfo.unistra.fr/) | 4 | B.Sc. | 16 | 16 | - | 16 |
-| 2011-17 | Advanced networking | [TPS](http://www.telecom-physique.fr/) | 3 | M.Sc. | 14 | 7 | 8 | 9 |
+| 2009-17  | System and network security | [UFR MAI](http://mathinfo.unistra.fr/) | 3 | M.Sc. | 20 | - | 17 | 40 |
+| 2008-13  | Network security | [UFR MAI](http://mathinfo.unistra.fr/) | 4 | B.Sc. | 16 | - | 16  | 15 |
+| 2014-17 | Internet of Things | [UFR MAI](http://mathinfo.unistra.fr/) | 3 | M.Sc. | 8 | 8 | 12 | 20 |
+| 2014-17 | Networks and protocols | [UFR MAI](http://mathinfo.unistra.fr/) | 6 | B.Sc. | 18 | 12 | 24 | 40 |
+| 2008-17  | Networking |[UFR MAI](http://mathinfo.unistra.fr/) | 4 | B.Sc. | 16 | 16 | - | 20 |
+| 2011-17 | Advanced networking | [TPS](http://www.telecom-physique.fr/) | 3 | M.Sc. | 14 | 7 | 8 | 15 |
 | 2013-14 | Network Architecture | [IUT RS](http://iutrs.unistra.fr/) | 3 | B.Sc. | - | 21 | 28  | 36 |
 | 2011-13  | New network services | [ESIROI](https://esiroi.univ-reunion.fr/) | 2 | M.Sc. | 16 | 14 | - | 10 |
 | 2011-12  | Internet routing | [ESIROI](https://esiroi.univ-reunion.fr/) | 2 | M.Sc. | 16 | 7 | 7 | 10 |
