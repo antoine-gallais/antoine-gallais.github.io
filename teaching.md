@@ -16,7 +16,7 @@ subtitle: (2004 -- 2017)
 
 ## Head teacher (course)
 
-| **Period** | **Course** | **Location** | **Level** | **ECTS** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
+| **Period** | **Course** | **Location** | **ECTS** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
 | :------- |:----------:| :-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 2009-17  | System and network security | [UFR MAI](http://mathinfo.unistra.fr/) | 3 | M.Sc. | 20 | - | 17 | 22 |
 | 2008-13  | Network security | [UFR MAI](http://mathinfo.unistra.fr/) | 4 | B.Sc. | 16 | - | 24  | 15 |
