@@ -39,21 +39,21 @@ subtitle: (2004 -- 2017)
 
 | **Period** | **Course** | **Location** | **ECTS** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
 | :------- |:----------:| :-----:|:-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 2011-13 | TCP/IP | [TPS](http://www.telecom-physique.fr/) | M.Sc. | 2 | 4 | - | 7 |
-| 2010-13 | Understanding networks | [IUT RS](http://iutrs.unistra.fr/) | B.Sc. | - | 14 | 28 | 32 |
-| 2010-12 | Using Systems and networks | [IUT RS](http://iutrs.unistra.fr/) | B.Sc. | - | 14 | 28 | 32 |
-| 2010-11 | System and network configuring | [IUT RS](http://iutrs.unistra.fr/) | B.Sc. | - | 14 | 28 | 32 |
-| 2013-14 | Business Networking | [UFR MAI](http://mathinfo.unistra.fr/) | M.Sc. | 4 | - | - | 20 |
-| 2014-17 | Distributed systems | [UFR MAI](http://mathinfo.unistra.fr/) | B.Sc. | - | 12 | - | 40 |
-| 2015-17 | Object-oriented programming | [UFR MAI](http://mathinfo.unistra.fr/) | B.Sc. | - | 12 | 10 | 40 |
-| 2015-17 | Research introduction | [UFR MAI](http://mathinfo.unistra.fr/) | M.Sc. | 4 | - | - | 20 |
-| 2013-17 | Research introduction | [UFR MAI](http://mathinfo.unistra.fr/) | B.Sc. | 1,5 | - | - | 30 |
-| 2012-13  | English for computer science | [UFR MAI](http://mathinfo.unistra.fr/) | B.Sc. | 2 | 2 | - | 30 |
-| 2007-08 | System and network architecture | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)	 | B.Sc. | - | 48 | - | 24 |
-| 2007-08 | Mathematics for modeling | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/) | B.Sc. | - | 32 | - | 24 |
-| 2006-07 | Basic architecture | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/) | B.Sc. | - | 16 | - | 24 |
-| 2005-08 | Programming | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)	 | B.Sc. | - | 32 | 16 | 24 |
-| 2005-08 | System and network architecture | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)	 | B.Sc. | - | 26 | 5 | 24 |
-| 2004-07 | Object-oriented programming | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/) | B.Sc. | - | - | 16 | 12 |
-| 2004-07 | Data structure | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)	 | B.Sc. | - | - |16 | 12 |
-| 2004-05 | Computer architecture | [UFR IEEA  (USTL)](http://ieea.univ-lille1.fr/) | B.Sc. | - | 16 | 16 | 25 |
+| 2011-13 | TCP/IP | [TPS](http://www.telecom-physique.fr/)| 3 | M.Sc. | 2 | 4 | - | 7 |
+| 2010-13 | Understanding networks | [IUT RS](http://iutrs.unistra.fr/)| 3 | B.Sc. | - | 14 | 28 | 32 |
+| 2010-12 | Using Systems and networks | [IUT RS](http://iutrs.unistra.fr/)| 3 | B.Sc. | - | 14 | 28 | 32 |
+| 2010-11 | System and network configuring | [IUT RS](http://iutrs.unistra.fr/)| 3 | B.Sc. | - | 14 | 28 | 32 |
+| 2013-14 | Business Networking | [UFR MAI](http://mathinfo.unistra.fr/)| 6 | M.Sc. | 4 | - | - | 20 |
+| 2014-17 | Distributed systems | [UFR MAI](http://mathinfo.unistra.fr/)| 3 | B.Sc. | - | 12 | - | 40 |
+| 2015-17 | Object-oriented programming | [UFR MAI](http://mathinfo.unistra.fr/)|3  | B.Sc. | - | 12 | 10 | 40 |
+| 2015-17 | Research introduction | [UFR MAI](http://mathinfo.unistra.fr/)| 6 | M.Sc. | 4 | - | - | 20 |
+| 2013-17 | Research introduction | [UFR MAI](http://mathinfo.unistra.fr/)| 3 | B.Sc. | 1,5 | - | - | 30 |
+| 2012-13  | English for computer science | [UFR MAI](http://mathinfo.unistra.fr/)| 3 | B.Sc. | 2 | 2 | - | 30 |
+| 2007-08 | System and network architecture | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)| 3	 | B.Sc. | - | 48 | - | 24 |
+| 2007-08 | Mathematics for modeling | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)| 3 | B.Sc. | - | 32 | - | 24 |
+| 2006-07 | Basic architecture | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)| 3 | B.Sc. | - | 16 | - | 24 |
+| 2005-08 | Programming | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)| 	3 | B.Sc. | - | 32 | 16 | 24 |
+| 2005-08 | System and network architecture | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)| 3	 | B.Sc. | - | 26 | 5 | 24 |
+| 2004-07 | Object-oriented programming | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)| 3 | B.Sc. | - | - | 16 | 12 |
+| 2004-07 | Data structure | [IUT A  (USTL, Lille)](http://www.iut-a.univ-lille.fr/)| 3	 | B.Sc. | - | - |16 | 12 |
+| 2004-05 | Computer architecture | [UFR IEEA  (USTL)](http://ieea.univ-lille1.fr/)| 3 | B.Sc. | - | 16 | 16 | 25 |
