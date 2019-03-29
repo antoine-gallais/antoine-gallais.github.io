@@ -16,7 +16,7 @@ subtitle: (2004 -- 2017)
 
 ## Head teacher (course)
 
-| **Period** | **Course** | **Location** | ** ECTS** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
+| **Period** | **Course** | **Location** | **ECTS** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
 | :------- |:----------:| :-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 2009-17  | System and network security | [UFR MAI](http://mathinfo.unistra.fr/) | 3 | M.Sc. | 20 | - | 17 | 22 |
 | 2008-13  | Network security | [UFR MAI](http://mathinfo.unistra.fr/) | 4 | B.Sc. | 16 | - | 24  | 15 |
@@ -37,8 +37,8 @@ subtitle: (2004 -- 2017)
 
 ## Teacher
 
-| **Period** | **Course** | **Location** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
-| :------- |:----------:| :-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| **Period** | **Course** | **Location** | **ECTS** | **Level** | **Lectures** | **Exercise sessions** | **Lab sessions** |  **Class number** |
+| :------- |:----------:| :-----:|:-----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 2011-13 | TCP/IP | [TPS](http://www.telecom-physique.fr/) | M.Sc. | 2 | 4 | - | 7 |
 | 2010-13 | Understanding networks | [IUT RS](http://iutrs.unistra.fr/) | B.Sc. | - | 14 | 28 | 32 |
 | 2010-12 | Using Systems and networks | [IUT RS](http://iutrs.unistra.fr/) | B.Sc. | - | 14 | 28 | 32 |
