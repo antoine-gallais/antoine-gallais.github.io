@@ -36,17 +36,19 @@ title: Service
     
 ## Technical program committees
 * 2019:
+    * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
+    * [ACOSIS'19](http://www.acosis.org/index.html)
+    * [IARIA SENSORCOMM'19](https://www.iaria.org/conferences2019/SENSORCOMM19.html)
+    * [IEEE ICNC'19](http://www.conf-icnc.org/2019/)
     * [IARIA EMERGING'19](http://www.iaria.org/conferences2019/EMERGING19.html)
+    * [IEEE DIPI'19 (in conjunction with IEEE WOWMOM'19)](http://cnd.iit.cnr.it/dipi2019/)
     * [IARIA MOBILITY'19](http://www.iaria.org/conferences2019/MOBILITY19.html)
     * [IARIA ACCSE'19](http://www.iaria.org/conferences2019/ACCSE19.html)
-    * [IEEE DIPI'19 (in conjunction with IEEE WOWMOM'19)](http://cnd.iit.cnr.it/dipi2019/)
     * [IARIA ICWMC'19](http://www.iaria.org/conferences2019/ICWMC19.html)
-    * [IARIA INNOV'19](http://www.iaria.org/conferences2019/INNOV19.html)
     * [CoRes’19 (TPC co-chair)](https://www.irit.fr/cores2019/)
     * [Wi-DroIT'19 (in conjunction with IEEE DCOSS'19)](https://widroit2019.loria.fr/)
+    * [IARIA INNOV'19](http://www.iaria.org/conferences2019/INNOV19.html)
     * [ICCAIS'19](http://www.iccais.tech/ctopicpf/)
-    * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
-    * [IEEE ICNC'19](http://www.conf-icnc.org/2019/)
 * 2018: 
     * [IEEE GlobalSIP'18](https://2018.ieeeglobalsip.org/)
     * [IEEE GIIS'18](http://www.giis-conf.org/)
