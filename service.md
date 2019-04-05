@@ -19,6 +19,8 @@ title: Service
 
 ## PhD committees
 
+* 2019
+    * Reviewer of ["Gestion Dynamique et Évolutive de Règles de Sécurité pour l’Internet des Objets"](http://www.theses.fr/s144202), by Salim Mahamat Charfadine (CReSTIC - Université de Reims Champagne-Ardenne, France, under supervision of Prof. Olivier Flauzac and Dr. Florent Nolot).
 * 2018
     * Reviewer of ["Multiple access techniques for very low rate satellite communication systems"](http://www.theses.fr/s147336), by Hugo Chelle (Airbus and IRIT - Université de Toulouse, France, under supervision of Prof. A.-L. Beylot).
     * Reviewer of ["Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks"](http://www.theses.fr/s201637), by François Lemercier (Itron and IMT Atlantique, Rennes, France, under supervision of Prof. N. Montavont and Prof. L. Toutain).
