@@ -36,6 +36,7 @@ title: Service
     
 ## Technical program committees
 * 2019:
+    * [IEEE MENACOMM'19](http://menacomm2019.org/)
     * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
     * [ACOSIS'19](http://www.acosis.org/index.html)
     * [IARIA SENSORCOMM'19](https://www.iaria.org/conferences2019/SENSORCOMM19.html)
