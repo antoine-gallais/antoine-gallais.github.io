@@ -17,6 +17,10 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 [Publications sorted by type](/publications)
 
+# 2019
+* M. A. Falek, C. Pelsser, A. Gallais, S. Julien and F. Théoleyre, De l'(in)utilité du temps-réel pour le calcul d'itinéraire dans les réseaux routiers, in Proc. AlgoTel, St Laurent de la Cabrerisse, France, 2019.
+* A. Gallais, T.-H. Hedli, V. Loscri and N. Mitton, [Denial-of-Sleep Attacks against IoT Networks](https://codit19.com/), to appear in Proc. IEEE International Conference on Control, Decision and Information Technologies (CoDIT) - Paris, France, April 2019.
+
 # 2018
 * K. Kritsis , G. Papadopoulos , A. Gallais, P. Chatzimisios and F. Theoleyre, [A Tutorial on Performance Evaluation and Validation Methodology for Low-Power and Lossy Networks](https://doi.org/10.1109/COMST.2018.2820810), in IEEE Communications Surveys 
 & Tutorials, Vol. 20:3, pp. 1799-1825, thirdquarter 2018.
