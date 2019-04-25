@@ -85,6 +85,7 @@ Embedded Wireless Systems and Networks (EWSN) - Madrid, Spain, February 2018.
 
 # National conferences
 
+* M. A. Falek, C. Pelsser, A. Gallais, S. Julien and F. Théoleyre, De l'(in)utilité du temps-réel pour le calcul d'itinéraire dans les réseaux routiers, in Proc. AlgoTel, St Laurent de la Cabrerisse, France, 2019.
 * J. Beaudaux, G. Papadopoulos, A. Gallais, T. Noel, [Auto-configuration Proactive de la Couche MAC pour les Réseaux de Capteurs Sans Fil à Trafic Variable](https://ubimob2013.sciencesconf.org/17989), in Proc. Ubimob, Nancy, France, June 2013.
 * J. Montavont, A. Gallais et T. Noel, [De l'Internet mobile à la mobilité dans l'Internet des objets](http://www.cepadues.com/livres/ubimob-12-9782364930186.html), in Proc. 8èmes journées francophones Mobilité et Ubiquité (Ubimob), Anglet, France, 2012 (**invited paper**).
 * F. Clad, A. Gallais and P. Mérindol, [Puits Nomade dans un Réseau de Capteurs : Vers une Collecte Efficace de Données](https://hal.archives-ouvertes.fr/hal-00690408/), in Proc. AlgoTel, La Grande Motte, France, 2012.
