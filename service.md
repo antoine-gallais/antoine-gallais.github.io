@@ -5,6 +5,7 @@ title: Service
 
 ## Organization committees
 
+* [EWSN’20 (Posters & Demos co-chair)](http://ewsn2020.conf.citi-lab.fr/)
 * [CoRes’19 (TPC co-chair)](https://www.irit.fr/cores2019/)
 * [IEEE SAS'19, special session on Wireless Sensors Networks (co-chair)](http://sensorapps.org/pages/special-sessions-0)
 * [IIoT days 2018 (co-chair)](http://iiot-2018.cnrs.fr/)
@@ -20,7 +21,7 @@ title: Service
 ## PhD committees
 
 * 2019
-    * Reviewer of ["Gestion Dynamique et Évolutive de Règles de Sécurité pour l’Internet des Objets"](http://www.theses.fr/s144202), by Salim Mahamat Charfadine (CReSTIC - Université de Reims Champagne-Ardenne, France, under supervision of Prof. Olivier Flauzac and Dr. Florent Nolot).
+    * Reviewer of ["Gestion Dynamique et Évolutive de Règles de Sécurité pour l’Internet des Objets"](http://www.theses.fr/s144202), by Salim Mahamat Charfadine (CReSTIC - Université de Reims Champagne-Ardenne, France, under supervision of Prof. O. Flauzac and Dr. F. Nolot).
 * 2018
     * Reviewer of ["Multiple access techniques for very low rate satellite communication systems"](http://www.theses.fr/s147336), by Hugo Chelle (Airbus and IRIT - Université de Toulouse, France, under supervision of Prof. A.-L. Beylot).
     * Reviewer of ["Optimization and Enhancement of RPL for Hybrid RF/PLC IoT networks"](http://www.theses.fr/s201637), by François Lemercier (Itron and IMT Atlantique, Rennes, France, under supervision of Prof. N. Montavont and Prof. L. Toutain).
