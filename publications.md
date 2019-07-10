@@ -48,8 +48,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
-
-* A. Gallais, T.-H. Hedli, V. Loscri and N. Mitton, [Denial-of-Sleep Attacks against IoT Networks](https://codit19.com/), to appear in Proc. IEEE International Conference on Control, Decision and Information Technologies (CoDIT) - Paris, France, April 2019.
+* R. Teles Hermeto, A. Gallais, F. Theoleyre, [Is Link-Layer Anycast Scheduling Relevant for IEEE802.15.4-TSCH Networks?](https://www.ieeelcn.org/), in Proc. IEEE Conference on Local Computer Networks (LCN) - Osnabrück, Germany, October 2019.
+* A. Gallais, T.-H. Hedli, V. Loscri and N. Mitton, [Denial-of-Sleep Attacks against IoT Networks](https://codit19.com/), in Proc. IEEE International Conference on Control, Decision and Information Technologies (CoDIT) - Paris, France, April 2019.
 * M. A. Falek, C. Pelsser, A. Gallais, S. Julien and F. Theoleyre, [Unambiguous, Real-Time and Accurate Map Matching for Multiple Sensing Sources](https://doi.org/10.1109/WiMOB.2018.8589103), in Proc. IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob) - Limassol, Cyprus, October 2018.
 * R. Teles Hermeto, A. Gallais and F. Theoleyre, [On the (over)-Reactions and the Stability of a 6TiSCH Network in an Indoor Environment](https://doi.org/10.1145/3242102.3242104), in Proc. ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) - Montreal, Canada, October 2018.
 * R. Teles Hermeto, A. Gallais, K. Van Laerhoven and F. Theoleyre, [Passive Link Quality Estimation for Accurate and Stable Parent Selection in Dense 6TiSCH Networks](https://dl.acm.org/citation.cfm?id=3234847.3234862), in Proc. ACM International Conference on
