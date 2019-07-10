@@ -29,7 +29,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
-* R. Teles Hermeto, A. Gallais and F. Theoleyre, Experimental in-depth Study of the Dynamics of an Indoor Industrial Low Power Lossy Network, In Elsevier Ad Hoc Networks, to appear.
+* R. Teles Hermeto, A. Gallais and F. Theoleyre, [Experimental in-depth Study of the Dynamics of an Indoor Industrial Low Power Lossy Network, In Elsevier Ad Hoc Networks](https://doi.org/10.1016/j.adhoc.2019.101914), Vol. 93, October 2019.
 * K. Kritsis , G. Papadopoulos , A. Gallais, P. Chatzimisios and F. Theoleyre, [A Tutorial on Performance Evaluation and Validation Methodology for Low-Power and Lossy Networks](https://doi.org/10.1109/COMST.2018.2820810), in IEEE Communications Surveys 
 & Tutorials, Vol. 20:3, pp. 1799-1825, thirdquarter 2018.
 * R. Teles Hermeto, A. Gallais and F. Theoleyre, [Impact of the Initial Preferred Parent Choice in Wireless Industrial Low-Power Networks](http://mmc.committees.comsoc.org/files/2018/01/MMTC_Communication_Frontier_Nov_2017_R2.pdf), In IEEE COMSOC MMTC Communications - Frontiers. pp. 43-46, Vol.12, No.6, November 2017. 
