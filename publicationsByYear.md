@@ -19,7 +19,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # 2019
 * R. Teles Hermeto, A. Gallais, F. Theoleyre, [Is Link-Layer Anycast Scheduling Relevant for IEEE802.15.4-TSCH Networks?](https://www.ieeelcn.org/), in Proc. IEEE Conference on Local Computer Networks (LCN) - Osnabrück, Germany, October 2019.
-* R. Teles Hermeto, A. Gallais and F. Theoleyre, Experimental in-depth Study of the Dynamics of an Indoor Industrial Low Power Lossy Network, In Elsevier Ad Hoc Networks, to appear.
+* R. Teles Hermeto, A. Gallais and F. Theoleyre, [Experimental in-depth Study of the Dynamics of an Indoor Industrial Low Power Lossy Network, In Elsevier Ad Hoc Networks](https://doi.org/10.1016/j.adhoc.2019.101914), Vol. 93, October 2019.
 * M. A. Falek, C. Pelsser, A. Gallais, S. Julien and F. Théoleyre, De l'(in)utilité du temps-réel pour le calcul d'itinéraire dans les réseaux routiers, in Proc. AlgoTel, St Laurent de la Cabrerisse, France, 2019.
 * A. Gallais, T.-H. Hedli, V. Loscri and N. Mitton, [Denial-of-Sleep Attacks against IoT Networks](https://codit19.com/), to appear in Proc. IEEE International Conference on Control, Decision and Information Technologies (CoDIT) - Paris, France, April 2019.
 
