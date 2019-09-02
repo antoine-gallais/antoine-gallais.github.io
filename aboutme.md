@@ -4,8 +4,11 @@ title: About me
 subtitle: Academic background and professional experiences
 ---
 
-I am an associate professor at the University of Strasbourg, France. I hold a master (2004), a PhD degree (2007) in computer science from the University of Lille, and an HDR thesis (2017) from the University of Strasbourg.
- 
-Since sept. 2017, I am a visiting researcher at [Inria Lille - Nord Europe](https://www.inria.fr/centre/lille), in the [FUN research group](https://team.inria.fr/fun/) (full 2-year secondment, 2017-19). 
-
-My research topics include wireless ad hoc and mesh networks, actuator and sensor networks, Industrial Internet of Things, activity scheduling, routing and MAC protocols, fault-tolerance, mobile networks, mobile and distributed computing and performance evaluation. 
+<p style='text-align: justify;'> Since Sept. 2019, I am a full professor at the <a href="https://www.uphf.fr/">Université Polytechnique Hauts-de-France</a>, France, and a member of <a href="https://www.uphf.fr/LAMIH/en">LAMIH</a>.
+<br/>
+From 2008 to 2019, I was an associate professor at the <a href="https://www.unistra.fr/">University of Strasbourg</a>, France, a member of <a href="http://icube.unistra.fr/">ICube Laboratory</a> in the <a href="http://icube-reseaux.unistra.fr">Network research group</a>, and a visiting researcher at <a href="https://www.inria.fr/centre/lille">Inria Lille - Nord Europe</a>, in the <a href="https://team.inria.fr/fun/">FUN research group</a> (full 2-year secondment, 2017-19). <br/>
+<br/>
+I hold a master (2004), a PhD degree (2007) in computer science from the University of Lille, and an HDR thesis (2017) from the University of Strasbourg.<br/>
+<br/>  
+My research topics include wireless ad hoc and mesh networks, actuator and sensor networks, Industrial Internet of Things, activity scheduling, routing and MAC protocols, mobile networks, fault-tolerance, cybersecurity and performance evaluation.
+</p>
