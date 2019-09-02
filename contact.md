@@ -3,19 +3,13 @@ layout: page
 title: Contact
 ---
 
-## Reach me at Inria
+## Reach me at UPHF / LAMIH
 
-[Inria Lille - Nord Europe](https://www.inria.fr/centre/lille) / [FUN](https://team.inria.fr/fun/)<br/>
-Bâtiment A - Parc scientifique de la haute borne<br/>
-40, avenue Halley<br/>
-59650 VILLENEUVE D'ASCQ, France<br/>
-My office: A205<br/>
-antoine.gallais(at)inria.fr<br/>
-Phone: +33(0)359.577.884
+[LAMIH](https://www.uphf.fr/LAMIH/en)<br/>
+[Malvache/Jonas building](https://www.uphf.fr/LAMIH/fr/acces)<br/>
+UPHF - Le Mont Houy
+59313 Valenciennes Cedex 9, France<br/>
+My office: TBD <br/>
+antoine.gallais(at)uphf.fr<br/>
+Phone: TBD
 
-## Reach me at ICube
-
-[ICube](http://icube.unistra.fr), Pôle API<br/>
-Boulevard Sébastien Brant<br/>
-67400 Illkirch - France<br/>
-gallais(at)unistra.fr
