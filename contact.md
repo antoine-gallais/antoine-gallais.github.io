@@ -9,8 +9,6 @@ title: Contact
 [Malvache/Jonas building](https://www.uphf.fr/LAMIH/fr/acces)<br/>
 UPHF - Le Mont Houy
 59313 Valenciennes Cedex 9, France<br/>
-My office: TBD <br/>
-Phone: +33(0) 327.511.325
+My office: 212d <br/>
 antoine.gallais(at)uphf.fr<br/>
-Phone: TBD
-
+Phone: +33(0) 327.511.325<br/>
