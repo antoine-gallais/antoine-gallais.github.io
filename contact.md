@@ -10,6 +10,7 @@ title: Contact
 UPHF - Le Mont Houy
 59313 Valenciennes Cedex 9, France<br/>
 My office: TBD <br/>
+Phone: +33(0) 327.511.325
 antoine.gallais(at)uphf.fr<br/>
 Phone: TBD
 
