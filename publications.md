@@ -48,6 +48,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
+* E. A. A. Alaoui, C. S. T. Koumétio, A. Gallais, S. Agoujil, [Towards a DTN protocol for the Internet of Things](https://giis-2019.dnac.org/), in Proc. Global Information Infrastructure and Networking Symposium (GIIS) - Paris, France, December 2019.
+* R. Teles Hermeto, Q. Bramas, A. Gallais, F. Theoleyre, [Analysis of the Network Attachment Delay of Mobile Devices in the Industrial Internet of Things](https://www.adhocnow2019.lu/), in Proc. International Conference on Ad Hoc Networks and Wireless (AdHoc-Now) - Luxembourg, October 2019.
 * R. Teles Hermeto, A. Gallais, F. Theoleyre, [Is Link-Layer Anycast Scheduling Relevant for IEEE802.15.4-TSCH Networks?](https://www.ieeelcn.org/), in Proc. IEEE Conference on Local Computer Networks (LCN) - Osnabrück, Germany, October 2019.
 * A. Gallais, T.-H. Hedli, V. Loscri and N. Mitton, [Denial-of-Sleep Attacks against IoT Networks](https://codit19.com/), in Proc. IEEE International Conference on Control, Decision and Information Technologies (CoDIT) - Paris, France, April 2019.
 * M. A. Falek, C. Pelsser, A. Gallais, S. Julien and F. Theoleyre, [Unambiguous, Real-Time and Accurate Map Matching for Multiple Sensing Sources](https://doi.org/10.1109/WiMOB.2018.8589103), in Proc. IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob) - Limassol, Cyprus, October 2018.
