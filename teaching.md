@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Teaching activities
-subtitle: (2019 -- *, [previously at Unistra](/teaching-unistra))
+subtitle: (2019 -- *)
 ---
 
 [(previously at Unistra)](/teaching-unistra)
 
-## Head teacher (year)
+## Coordinator (degree)
 
 | **Period** | **Location** | **Diploma / Year** |
 | :------- |:-----:|:-------------:|
