@@ -19,11 +19,11 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
     * Co-supervised with [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
 * [M. A. Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
-    * Defense expected in 2019
+    * Defense expected in 2020
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
 * [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on virtualizing Heterogeneous Wireless Networks with SDN for the 5G
     * funding: Idex Unistra 
-    * Defense expected in 2019
+    * Defended in 2019
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/)
 * [G. Z. Papadopoulos](http://georgiospapadopoulos.com/), University of Strasbourg, on improving Medium Access for Dynamic Wireless Sensor Networks
     * funding: Idex Unistra
