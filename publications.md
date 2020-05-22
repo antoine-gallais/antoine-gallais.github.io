@@ -29,6 +29,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* M. A. Falek, A. Gallais, C. Pelsser, S. Julien, F. Theoleyre. To Re-Route, or not to Re-Route: Impact of Real-Time Re-Routing in Urban Road Networks. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations, Taylor & Francis, 2020, to appear.
 * R. Teles Hermeto, A. Gallais and F. Theoleyre, [Experimental in-depth Study of the Dynamics of an Indoor Industrial Low Power Lossy Network, In Elsevier Ad Hoc Networks](https://doi.org/10.1016/j.adhoc.2019.101914), Vol. 93, October 2019.
 * K. Kritsis , G. Papadopoulos , A. Gallais, P. Chatzimisios and F. Theoleyre, [A Tutorial on Performance Evaluation and Validation Methodology for Low-Power and Lossy Networks](https://doi.org/10.1109/COMST.2018.2820810), in IEEE Communications Surveys 
 & Tutorials, Vol. 20:3, pp. 1799-1825, thirdquarter 2018.
