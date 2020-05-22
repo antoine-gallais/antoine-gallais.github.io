@@ -17,6 +17,9 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 [Publications sorted by type](/publications)
 
+# 2020
+* M. A. Falek, A. Gallais, C. Pelsser, S. Julien, F. Theoleyre. To Re-Route, or not to Re-Route: Impact of Real-Time Re-Routing in Urban Road Networks. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations, Taylor & Francis, 2020, to appear.
+
 # 2019
 * R. Teles Hermeto, Q. Bramas, A. Gallais, F. Theoleyre, [Analysis of the Network Attachment Delay of Mobile Devices in the Industrial Internet of Things](https://www.adhocnow2019.lu/), in Proc. International Conference on Ad Hoc Networks and Wireless (AdHoc-Now) - Luxembourg, October 2019.
 * R. Teles Hermeto, A. Gallais, F. Theoleyre, [Is Link-Layer Anycast Scheduling Relevant for IEEE802.15.4-TSCH Networks?](https://www.ieeelcn.org/), in Proc. IEEE Conference on Local Computer Networks (LCN) - Osnabrück, Germany, October 2019.
