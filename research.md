@@ -7,8 +7,16 @@ title: Research activities
 My research interests lie in ad hoc and sensor networks, and more generally in the Internet of Things (IoT) systems. After proposing some localized connected area coverage solutions during my PhD period (2004-2007), I have been tackling medium access control (MAC) and routing issues in IoT networks. For all the following activities, I consider fault-tolerance and security as two major cross-cutting challenges that must be addressed carefully. I especially focused on preamble-sampling approaches in order to enable a priori configuration of heterogeneous Low-Power Listening (LPL) values, runtime adaptation of preamble and sampling periods and communications of mobile nodes with a static infrastructure of LPL devices. Over the past few years, I have investigated the industrial Internet of Things (IIoT) and its emerging networking protocols to guarantee bounded delays and consumption. I am considering protocol stacks that are in the scope of some IETF working groups (e.g., 6lowPAN, roll, 6tsch) and which consider synchronous medium access (e.g. IEEE 802.15.4 standard). I am studying distributed strategies to schedule wireless transmissions, while reducing control overhead and taking into account network dynamics. Overall, I have been particularly interested in performance evaluation and research methodology to obtain scientific results that can be used and reproduced by the community.
 </p>
 
-## PhD Students
-I have / had the pleasure to co-advise or externally advise the following PhD students:
+## Current PhD Students
+I have the pleasure to co-advise or externally advise the following PhD students:
+* Ali Haj Assan, Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
+    * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
+    * Defense expected in 2023
+    * Co-supervised with [Dr. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/)
+* Emilie Bout, Inria Lille - Nord Europe, on Denial-of-sleep attacks in wireless networks
+    * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
+    * Defense expected in 2023
+    * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
 * Renato J Neto, University of Strasbourg, on Nano-Autonomous Systems for a Privacy Aware Internet of Things
     * Funding: [ANR JCJC (nano-NET project)](http://www.agence-nationale-recherche.fr/financer-votre-projet/aapg2018/aapg-2018-resultats/) 
     * Defense expected in 2022
@@ -21,6 +29,9 @@ I have / had the pleasure to co-advise or externally advise the following PhD st
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
     * Defense expected in 2020
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
+
+## Past PhD Students
+I had the pleasure to co-advise or externally advise the following PhD students:
 * [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on virtualizing Heterogeneous Wireless Networks with SDN for the 5G
     * funding: Idex Unistra 
     * Defended in 2019
