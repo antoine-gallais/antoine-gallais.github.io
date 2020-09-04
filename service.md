@@ -20,8 +20,10 @@ title: Service
 
 ## PhD committees
 
+* 2020
+    * Reviewer and committee president of ["Une solution MAC cognitive pour les réseaux dédiés à l'Internet des objets"](https://www.theses.fr/), by Abderrahman Ben Khalifa (Université de Lyon / INSA Lyon, France, under supervision of Prof. H. Rivano and Dr. R. Stanica)
 * 2019
-    * Examiner (committee president) of ["Approche coopérative pour l'extension de la couverture cellulaire via une architecture D2D
+    * Examiner and committee president of ["Approche coopérative pour l'extension de la couverture cellulaire via une architecture D2D
 basée sur le protocole OLSR."](https://www.theses.fr/s198584), by Youssef Lmoumen (Université Ibn Tofaïl Kenitra, Maroc / CIAD - Université Bourgogne - Franche-Comté, France, under supervision of Prof. Y. Ruichek and Prof. R. Touahni).
     * Reviewer of ["Gestion Dynamique et Évolutive de Règles de Sécurité pour l’Internet des Objets"](http://www.theses.fr/s144202), by Salim Mahamat Charfadine (CReSTIC - Université de Reims Champagne-Ardenne, France, under supervision of Prof. O. Flauzac and Dr. F. Nolot).
 * 2018
