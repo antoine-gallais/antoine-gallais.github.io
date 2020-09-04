@@ -29,6 +29,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* G. Z. Papadopoulos, A. Mavromatis, A. Gallais and F. Theoleyre, [CoopStor: A Cooperative Reliable and Efficient Data Collection Protocol in Fault and Delay Tolerant Wireless Networks](https://www.springer.com/journal/11276), Springer Wireless Networks, 2020, to appear.
 * M. A. Falek, A. Gallais, C. Pelsser, S. Julien, F. Theoleyre. To Re-Route, or not to Re-Route: Impact of Real-Time Re-Routing in Urban Road Networks. Journal of Intelligent Transportation Systems: Technology, Planning, and Operations, Taylor & Francis, 2020, to appear.
 * R. Teles Hermeto, A. Gallais and F. Theoleyre, [Experimental in-depth Study of the Dynamics of an Indoor Industrial Low Power Lossy Network, In Elsevier Ad Hoc Networks](https://doi.org/10.1016/j.adhoc.2019.101914), Vol. 93, October 2019.
 * K. Kritsis , G. Papadopoulos , A. Gallais, P. Chatzimisios and F. Theoleyre, [A Tutorial on Performance Evaluation and Validation Methodology for Low-Power and Lossy Networks](https://doi.org/10.1109/COMST.2018.2820810), in IEEE Communications Surveys 
@@ -49,6 +50,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
+* E. Bout, V. Loscri, A. Gallais, [Energy and Distance evaluation for Jamming Attacks in wireless networks](http://ds-rt.com/2020/home), to appear in Proc. IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications (DT-RS) - Prague, Czech Republic, September 2020.
 * R. Teles Hermeto, Q. Bramas, A. Gallais, F. Theoleyre, [Analysis of the Network Attachment Delay of Mobile Devices in the Industrial Internet of Things](https://www.adhocnow2019.lu/), in Proc. International Conference on Ad Hoc Networks and Wireless (AdHoc-Now) - Luxembourg, October 2019.
 * R. Teles Hermeto, A. Gallais, F. Theoleyre, [Is Link-Layer Anycast Scheduling Relevant for IEEE802.15.4-TSCH Networks?](https://www.ieeelcn.org/), in Proc. IEEE Conference on Local Computer Networks (LCN) - Osnabrück, Germany, October 2019.
 * A. Gallais, T.-H. Hedli, V. Loscri and N. Mitton, [Denial-of-Sleep Attacks against IoT Networks](https://codit19.com/), in Proc. IEEE International Conference on Control, Decision and Information Technologies (CoDIT) - Paris, France, April 2019.
