@@ -8,7 +8,7 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 </p>
 
 ## Current PhD Students
-I have the pleasure to co-advise or externally advise the following PhD students:
+I have the pleasure to co-advise the following PhD students:
 * Ali Haj Assan, Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
     * Defense expected in 2023
@@ -31,7 +31,7 @@ I have the pleasure to co-advise or externally advise the following PhD students
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
 
 ## Past PhD Students
-I had the pleasure to co-advise or externally advise the following PhD students:
+I had the pleasure to co-advise the following PhD students:
 * [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on virtualizing Heterogeneous Wireless Networks with SDN for the 5G
     * funding: Idex Unistra 
     * Defended in 2019
