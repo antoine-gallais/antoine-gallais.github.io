@@ -18,9 +18,11 @@ subtitle: (2019 -- *)
 
 | **Period** | **Course** | **Location** | **ECTS** | **Level** |
 | :------- |:----------:| :-----:|:-------------:|:-------------:|
+| 2020-*  | Founding principles of security | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | M.Sc. |
+| 2020-*  | Overview of computer science and cybersecurity | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | B.Sc. |
 | 2019-*  | Security of wireless and mobile networks | [Polytechnic University Hauts-de-France](http://uphf.fr/) | 3 | M.Sc. |
 | 2019-* | Ubiquitous computing | [Polytechnic University Hauts-de-France](http://uphf.fr/)  | 3 | M.Sc. |
-| 2019-* | Architecture | [Polytechnic University Hauts-de-France](http://uphf.fr/)  | 3 | B.Sc. |
+| 2019-20 | Architecture | [Polytechnic University Hauts-de-France](http://uphf.fr/)  | 3 | B.Sc. |
 
 
 ## Teacher
