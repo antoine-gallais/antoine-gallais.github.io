@@ -17,10 +17,6 @@ I have the pleasure to co-advise the following PhD students:
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
     * Defense expected in 2023
     * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
-* Renato J Neto, University of Strasbourg, on Nano-Autonomous Systems for a Privacy Aware Internet of Things
-    * Funding: [ANR JCJC (nano-NET project)](http://www.agence-nationale-recherche.fr/financer-votre-projet/aapg2018/aapg-2018-resultats/) 
-    * Defense expected in 2022
-    * Co-supervised with [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/) and [Dr. Fabrice Théoleyre](https://www.theoleyre.eu/)
 * [L. Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
     * Funding: [Cisco](https://www.cisco.com/) 
     * Defense expected in 2021
