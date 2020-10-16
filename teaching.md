@@ -19,6 +19,7 @@ subtitle: (2019 -- *)
 | **Period** | **Course** | **Location** | **ECTS** | **Level** |
 | :------- |:----------:| :-----:|:-------------:|:-------------:|
 | 2020-*  | Founding principles of security | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | M.Sc. |
+| 2020-*  | Data communication and analysis for Industry 4.0 | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | M.Sc. |
 | 2020-*  | Overview of computer science and cybersecurity | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | B.Sc. |
 | 2019-*  | Security of wireless and mobile networks | [Polytechnic University Hauts-de-France](http://uphf.fr/) | 3 | M.Sc. |
 | 2019-* | Ubiquitous computing | [Polytechnic University Hauts-de-France](http://uphf.fr/)  | 3 | M.Sc. |
@@ -29,6 +30,7 @@ subtitle: (2019 -- *)
 
 | **Period** | **Course** | **Location** | **ECTS** | **Level** |
 | :------- |:----------:| :-----:|:-----:|:-------------:|
+| 2020-* | Architecture and operating systems | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)  | 3 | B.Sc. |
 | 2019-* | Algorithmics and programming (part 1) | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)  | 3 | B.Sc. |
 | 2019-* | Algorithmics and programming (part 2) | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)  | 3 | B.Sc. |
 
