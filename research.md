@@ -9,11 +9,11 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 
 ## Current PhD Students
 I have the pleasure to co-advise the following PhD students:
-* Ali Haj Assan, Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
+* [Ali Haj Assan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
     * Defense expected in 2023
     * Co-supervised with [Dr. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/)
-* Emilie Bout, Inria Lille - Nord Europe, on Denial-of-sleep attacks in wireless networks
+* [Emilie Bout](https://www.linkedin.com/in/emilie-bout-050a68117), Inria Lille - Nord Europe, on Denial-of-sleep attacks in wireless networks
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
     * Defense expected in 2023
     * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
