@@ -27,7 +27,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou, A. Gallais, S. Agoujil, [DTN Routing Hierarchical Topology for the Internet of Things](http://cs-conferences.acadiau.ca/ant-20/). in Proc. 11th International Conference on Ambient Systems, Networks and Technologies (ANT-2020) - Warsaw, Poland, April 2020.
 
 # 2019
-* E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou, A. Gallais, S. Agoujil, [Towards a DTN protocol for the Internet of Things](https://giis-2019.dnac.org/, in Proc. Global Information Infrastructure and Networking Symposium (GIIS) - Paris, France, December 2019.
+* E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou, A. Gallais, S. Agoujil, [Towards a DTN protocol for the Internet of Things](https://giis-2019.dnac.org/), in Proc. Global Information Infrastructure and Networking Symposium (GIIS) - Paris, France, December 2019.
 * R. Teles Hermeto, Q. Bramas, A. Gallais, F. Theoleyre, [Analysis of the Network Attachment Delay of Mobile Devices in the Industrial Internet of Things](https://www.adhocnow2019.lu/), in Proc. International Conference on Ad Hoc Networks and Wireless (AdHoc-Now) - Luxembourg, October 2019.
 * R. Teles Hermeto, A. Gallais, F. Theoleyre, [Is Link-Layer Anycast Scheduling Relevant for IEEE802.15.4-TSCH Networks?](https://www.ieeelcn.org/), in Proc. IEEE Conference on Local Computer Networks (LCN) - Osnabrück, Germany, October 2019.
 * R. Teles Hermeto, A. Gallais and F. Theoleyre, [Experimental in-depth Study of the Dynamics of an Indoor Industrial Low Power Lossy Network, In Elsevier Ad Hoc Networks](https://doi.org/10.1016/j.adhoc.2019.101914), Vol. 93, October 2019.
