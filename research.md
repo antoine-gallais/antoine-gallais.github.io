@@ -17,14 +17,14 @@ I have the pleasure to co-advise the following PhD students:
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
     * Defense expected in 2023
     * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
-* [L. Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
+* [Loïc Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
     * Funding: [Cisco](https://www.cisco.com/) 
     * Defense expected in 2021
     * Co-supervised with [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
 
 ## Past PhD Students
 I had the pleasure to co-advise the following PhD students:
-* [M. A. Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
+* [Amine Mohamed Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
     * Defended in 2020
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
@@ -32,11 +32,11 @@ I had the pleasure to co-advise the following PhD students:
     * funding: Idex Unistra 
     * Defended in 2019
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/)
-* [G. Z. Papadopoulos](http://georgiospapadopoulos.com/), University of Strasbourg, on improving Medium Access for Dynamic Wireless Sensor Networks
+* [Georgios Z. Papadopoulos](http://georgiospapadopoulos.com/), University of Strasbourg, on improving Medium Access for Dynamic Wireless Sensor Networks
     * funding: Idex Unistra
     * Defended in 2015
     * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
-* [J. Beaudaux](https://www.linkedin.com/in/jbeaudaux/), University of Strasbourg, on self-configuration of WSNs for remote healthcare
+* [Julien Beaudaux](https://www.linkedin.com/in/jbeaudaux/), University of Strasbourg, on self-configuration of WSNs for remote healthcare
     * funding: Région Alsace
     * Defended in 2013
     * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
