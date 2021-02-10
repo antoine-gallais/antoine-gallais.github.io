@@ -50,7 +50,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
-* E. Bout, V. Loscri, A. Gallais, [Energy and Distance evaluation for Jamming Attacks in wireless networks](http://ds-rt.com/2020/home), to appear in Proc. IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications (DT-RS) - Prague, Czech Republic, September 2020.
+* E. Bout, V. Loscri, A. Gallais, [Energy and Distance evaluation for Jamming Attacks in wireless networks](http://ds-rt.com/2020/home), to appear in Proc. IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications (DS-RT) - Prague, Czech Republic, September 2020.
 * R. Teles Hermeto, Q. Bramas, A. Gallais, F. Theoleyre, [Analysis of the Network Attachment Delay of Mobile Devices in the Industrial Internet of Things](https://www.adhocnow2019.lu/), in Proc. International Conference on Ad Hoc Networks and Wireless (AdHoc-Now) - Luxembourg, October 2019.
 * R. Teles Hermeto, A. Gallais, F. Theoleyre, [Is Link-Layer Anycast Scheduling Relevant for IEEE802.15.4-TSCH Networks?](https://www.ieeelcn.org/), in Proc. IEEE Conference on Local Computer Networks (LCN) - Osnabrück, Germany, October 2019.
 * A. Gallais, T.-H. Hedli, V. Loscri and N. Mitton, [Denial-of-Sleep Attacks against IoT Networks](https://codit19.com/), in Proc. IEEE International Conference on Control, Decision and Information Technologies (CoDIT) - Paris, France, April 2019.
