@@ -34,7 +34,7 @@ I had the pleasure to co-advise the following PhD students:
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
     * Defended in 2020
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
-* [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on virtualizing Heterogeneous Wireless Networks with SDN for the 5G
+* [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on Standard improvements and predictable performance for industrial Internet of things in indoor deployments
     * funding: Idex Unistra 
     * Defended in 2019
     * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/)
