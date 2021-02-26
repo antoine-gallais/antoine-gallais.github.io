@@ -21,6 +21,7 @@ title: Service
 ## PhD committees
 
 * 2020
+    * Reviewer and committee president of ["Toward reliable and bounded latency for internet of things"](http://www.theses.fr/2020IMTA0222), by Tomas Lagos Jenschke (IMT Atlantique Bretagne-Pays de la Loire, France, under supervision of Prof. N. Montavont and Dr. G. Z. Papadopoulos)  
     * Reviewer and committee president of ["Une solution MAC cognitive pour les réseaux dédiés à l'Internet des objets"](https://www.theses.fr/), by Abderrahman Ben Khalifa (Université de Lyon / INSA Lyon, France, under supervision of Prof. H. Rivano and Dr. R. Stanica)
 * 2019
     * Examiner and committee president of ["Approche coopérative pour l'extension de la couverture cellulaire via une architecture D2D
