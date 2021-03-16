@@ -18,6 +18,7 @@ subtitle: (2019 -- *)
 
 | **Period** | **Course** | **Location** | **ECTS** | **Level** |
 | :------- |:----------:| :-----:|:-------------:|:-------------:|
+| 2020-*  | Cybersecurity awareness (course open to any UPHF student)  |  [Polytechnic University Hauts-de-France](http://uphf.fr/) | - | all |
 | 2020-*  | Founding principles of security | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | M.Sc. |
 | 2020-*  | Data communication and analysis for Industry 4.0 | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | M.Sc. |
 | 2020-*  | Overview of computer science and cybersecurity | [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/) | 3 | B.Sc. |
