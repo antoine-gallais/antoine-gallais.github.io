@@ -18,6 +18,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2021
+* A. Gallais and Y. Imine, Cybersécurité des Systèmes industriels cyber-physiques, in Digitalisation et contrôle des systèmes industriels cyber-physiques (ISTE Editions, coordinated by O. Cardin, W. Derigent and D. Trentesaux), 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, De l'Utilisation des Métagraphes pour la Vérification de Politiques de Sécurité, in Proc. 23èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel) - La Rochelle, France, June 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, Protection contre les fuites de données : un environnement micro-services sécurisé, in PRoc. 6èmes Rencontres Francophones sur la Conception de Protocoles, l’Evaluation de Performance et l’EXpérimentation des Réseaux de Communication (CoRes) - La Rochelle, France, June 2021.
 * E. Bout, V. Loscri and A. Gallais, Evaluation de l’énergie et de la distance pour les attaques de brouillage dans les réseaux sans fil, in Proc. 6èmes Rencontres Francophones sur la Conception de Protocoles, l’Evaluation de Performance et l’EXpérimentation des Réseaux de Communication (CoRes) - La Rochelle, France, June 2021.
@@ -100,7 +101,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * A. Gallais and J. Gossa, [MANALA: Mate Network Architecture Layer](http://ubimob10.liris.cnrs.fr/papers/1.2.Gallais_et_al.pdf), in 6èmes journées francophones Mobilité et Ubiquité (Ubimob), Lyon, France, 2010.
 
 # 2009
-* A. Gallais, [Area Coverage in Wireless Sensor Networks](http://www.eurekaselect.com/52050/chapter/area-coverage-in-wireless-sensor-networks), Handbook of Ad Hoc and Sensor Wireless Networks: Architectures, Algorithms and Protocols (Bentham Science Publishers), eISBN: 978-1-60805-018-5, 2009.
+* A. Gallais, [Area Coverage in Wireless Sensor Networks](http://www.eurekaselect.com/52050/chapter/area-coverage-in-wireless-sensor-networks), in Handbook of Ad Hoc and Sensor Wireless Networks: Architectures, Algorithms and Protocols (Bentham Science Publishers), eISBN: 978-1-60805-018-5, 2009.
 * R. Kuntz, A. Gallais and T. Noel, [Medium Access Control Facing the Reality of WSN Deployments](http://doi.acm.org/10.1145/1568613.1568619), Edit. Note in ACM Computer Communication Review (CCR), 39:3, July 2009.
 * P. Mérindol and A. Gallais, [Path Diversity in Energy-Efficient Wireless Sensor Networks](http://dx.doi.org/10.1109/PIMRC.2009.5449785), in Proc. 20th IEEE Personal, Indoor and Mobile Radio Communications Symposium (PIMRC), Tokyo, Japan, 2009, pp. 2280--2284.
 
