@@ -25,7 +25,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # Book chapters
 
-* A. Gallais, [Area Coverage in Wireless Sensor Networks](http://www.eurekaselect.com/52050/chapter/area-coverage-in-wireless-sensor-networks), Handbook of Ad Hoc and Sensor Wireless Networks: Architectures, Algorithms and Protocols (Bentham Science Publishers), eISBN: 978-1-60805-018-5, 2009.
+* A. Gallais and Y. Imine, Cybersécurité des Systèmes industriels cyber-physiques, in Digitalisation et contrôle des systèmes industriels cyber-physiques (ISTE Editions, coordinated by O. Cardin, W. Derigent and D. Trentesaux), 2021.
+* A. Gallais, [Area Coverage in Wireless Sensor Networks](http://www.eurekaselect.com/52050/chapter/area-coverage-in-wireless-sensor-networks), in Handbook of Ad Hoc and Sensor Wireless Networks: Architectures, Algorithms and Protocols (Bentham Science Publishers), eISBN: 978-1-60805-018-5, 2009.
 
 # International journals
 
