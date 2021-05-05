@@ -12,7 +12,7 @@ I have the pleasure to co-advise the following PhD students:
 * Antoine Marchand, Université Polytechnique Hauts-de-France (France) / [Orange Cyberdéfense](https://orangecyberdefense.com/) 
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
-* Almamy Touré, Université Polytechnique Hauts-de-France (France) / [IBM Security](https://www.ibm.com/security)
+* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), Université Polytechnique Hauts-de-France (France) / [IBM Security](https://www.ibm.com/security)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
 * [Ali Haj Assan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
