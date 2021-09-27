@@ -53,7 +53,7 @@ I had the pleasure to co-advise the following PhD students:
  
 ## Ongoing research projects
 * 2021-23: GLOCAT ([Région HdF](https://www.hautsdefrance.fr/), Soutien aux Travaux Interdisciplinaires, Multi-établissements et Exploratoires - volet "Partenarial", STIMulE), GéoLOCalisation d’ATtaques sur réseaux sans fil
-* 2020-23: GIS CybCOM ([Région HdF](https://www.hautsdefrance.fr/), Soutien à l’animation de collectifs de recherche, SACR), Cyber sécurité des systèmes embarqués communicants sans fil
+* 2020-23: [GIS CybCOM](https://cybcom.univ-gustave-eiffel.fr/) ([Région HdF](https://www.hautsdefrance.fr/), Soutien à l’animation de collectifs de recherche, SACR), Cyber sécurité des systèmes embarqués communicants sans fil
 * 2021-2025: [CIRRELT](https://www.cirrelt.ca/)-[LAMIH](https://www.uphf.fr/LAMIH/en/presentation) International Research Project (IRP CNRS)
 * 2020-2023: Cyber F-IT ([Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/), Strategic Partnerships for higher education), Cyber Security – Training Students and Scholars for the Challenges of Information and Communication Technologies in Research and Studies for Internationalisation
 * 2018-2021: Secure workflow access control (Cisco)
