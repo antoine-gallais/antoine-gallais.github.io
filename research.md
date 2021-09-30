@@ -9,16 +9,22 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 
 ## Current PhD Students
 I have the pleasure to co-advise the following PhD students:
+* Youssef Sellami, Université Polytechnique Hauts-de-France (France)
+  * Funding: [UPHF](https://uphf.fr/)
+  * Defense expected in 2024
+<!--  * Co-supervised with [Prof. Soumaya Cherkaoui](https://www.gel.usherbrooke.ca/interlab/index.php?page=soumaya) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)-->
 * Antoine Marchand, Université Polytechnique Hauts-de-France (France) / [Orange Cyberdéfense](https://orangecyberdefense.com/) 
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
+    * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/LAMIH/en/membre?id=ouarnoughi_hamza)
 * [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), Université Polytechnique Hauts-de-France (France) / [IBM Security](https://www.ibm.com/security)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
+    * Co-supervised with [Dr. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Ali Haj Assan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
     * Defense expected in 2023
-    * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Prof. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/)
+    * Co-supervised with [Prof. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Emilie Bout](https://www.linkedin.com/in/emilie-bout-050a68117), Inria Lille - Nord Europe, on Denial-of-sleep attacks in wireless networks
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
     * Defense expected in 2023
@@ -26,14 +32,14 @@ I have the pleasure to co-advise the following PhD students:
 * [Loïc Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
     * Funding: [Cisco](https://www.cisco.com/) 
     * Defense expected in 2021
-    * Co-supervised with [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
+    * Co-supervised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/)
 
 ## Past PhD Students
 I had the pleasure to co-advise the following PhD students:
 * [Amine Mohamed Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
     * Defended in 2020
-    * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) and [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/)
+    * Co-supervised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) 
 * [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on Standard improvements and predictable performance for industrial Internet of things in indoor deployments
     * funding: Idex Unistra 
     * Defended in 2019
