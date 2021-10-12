@@ -10,7 +10,7 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 ## Open research positions
 We are looking for candidates on the following positions:
 * [Postdoc fellowship on security of wireless communications](https://euraxess.ec.europa.eu/jobs/654051)
-* [PhD position on biometrics](http://koliaza.com/biometrics-thesis-fr.pdf)
+* [PhD position on biometrics](http://koliaza.com/biometrics-thesis-en.pdf)
 
 ## Current PhD Students
 I have the pleasure to co-advise the following PhD students:
