@@ -26,7 +26,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Towards Secure and Leak-Free Workflows Using Microservice Isolation](https://doi.org/10.1109/HPSR52026.2021.9481820), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Verification of Cloud Security Policies](https://doi.org/10.1109/HPSR52026.2021.9481870), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
 * R. Juaçaba Neto, P. Merindol, A. Gallais and F. Theoleyre, [Scalability of LPWAN for Smart City Applications](https://doi.org/10.1109/IWCMC51323.2021.9498698), in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Harbin, China, June 2021.
-* * E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou and A. Gallais, [Efficient Forwarding Strategy in HDRP Protocol based Internet of Things](https://www.journals.elsevier.com/computer-communications), Elsevier Computer Communications, 2021.
+* E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou and A. Gallais, [Efficient Forwarding Strategy in HDRP Protocol based Internet of Things](https://www.journals.elsevier.com/computer-communications), Elsevier Computer Communications, 2021.
 
 # 2020
 * G. Z. Papadopoulos, A. Mavromatis, A. Gallais and F. Theoleyre, [CoopStor: A Cooperative Reliable and Efficient Data Collection Protocol in Fault and Delay Tolerant Wireless Networks](https://www.springer.com/journal/11276), Springer Wireless Networks, 2020.
