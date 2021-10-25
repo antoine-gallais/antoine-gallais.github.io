@@ -36,7 +36,7 @@ I have the pleasure to co-advise the following PhD students:
     * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
 * [Loïc Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
     * Funding: [Cisco](https://www.cisco.com/) 
-    * Defense expected in 2021
+    * Defense expected in 2022
     * Co-supervised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/)
 
 ## Past PhD Students
