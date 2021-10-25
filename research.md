@@ -17,7 +17,7 @@ I have the pleasure to co-advise the following PhD students:
 * Youssef Sellami, Université Polytechnique Hauts-de-France (France)
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2024
-<!--  * Co-supervised with [Prof. Soumaya Cherkaoui](https://www.gel.usherbrooke.ca/interlab/index.php?page=soumaya) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)-->
+  * Co-supervised with [Prof. Soumaya Cherkaoui](https://www.gel.usherbrooke.ca/interlab/index.php?page=soumaya) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * Antoine Marchand, Université Polytechnique Hauts-de-France (France) / [Orange Cyberdéfense](https://orangecyberdefense.com/) 
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
@@ -25,7 +25,7 @@ I have the pleasure to co-advise the following PhD students:
 * [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), Université Polytechnique Hauts-de-France (France) / [IBM Security](https://www.ibm.com/security)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
-    * Co-supervised with [Dr. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
+    * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Ali Haj Assan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
     * Defense expected in 2023
