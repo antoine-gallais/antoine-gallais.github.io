@@ -30,6 +30,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.
 * E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou and A. Gallais, [Efficient Forwarding Strategy in HDRP Protocol based Internet of Things](https://www.journals.elsevier.com/computer-communications), in Elsevier Computer Communications, 2021.
 * G. Z. Papadopoulos, A. Mavromatis, A. Gallais and F. Theoleyre, [CoopStor: A Cooperative Reliable and Efficient Data Collection Protocol in Fault and Delay Tolerant Wireless Networks](https://www.springer.com/journal/11276), in Springer Wireless Networks, 2020.
 * M. A. Falek, A. Gallais, C. Pelsser, S. Julien, F. Theoleyre. [To Re-Route, or not to Re-Route: Impact of Real-Time Re-Routing in Urban Road Networks](https://doi.org/10.1080/15472450.2020.1807345), in Journal of Intelligent Transportation Systems: Technology, Planning, and Operations, Taylor & Francis, 2020.
