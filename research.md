@@ -14,7 +14,7 @@ We are looking for candidates on the following positions:
 
 ## Current PhD Students
 I have the pleasure to co-advise the following PhD students:
-* Youssef Sellami, Université Polytechnique Hauts-de-France (France)
+* [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), Université Polytechnique Hauts-de-France (France)
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2024
   * Co-supervised with [Prof. Soumaya Cherkaoui](https://www.gel.usherbrooke.ca/interlab/index.php?page=soumaya) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
