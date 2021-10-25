@@ -18,7 +18,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2021
-* E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.* J. Dubrulle, B. Quoitin and A. Gallais, Opportunities and limitations of multi-instance RPL, in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
+* E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.
+* J. Dubrulle, B. Quoitin and A. Gallais, Opportunities and limitations of multi-instance RPL, in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
 * A. Gallais and Y. Imine, Cybersécurité des Systèmes industriels cyber-physiques, in Digitalisation et contrôle des systèmes industriels cyber-physiques (ISTE Editions, coordinated by O. Cardin, W. Derigent and D. Trentesaux), 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, De l'Utilisation des Métagraphes pour la Vérification de Politiques de Sécurité, in Proc. 23èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel) - La Rochelle, France, June 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, Protection contre les fuites de données : un environnement micro-services sécurisé, in PRoc. 6èmes Rencontres Francophones sur la Conception de Protocoles, l’Evaluation de Performance et l’EXpérimentation des Réseaux de Communication (CoRes) - La Rochelle, France, June 2021.
