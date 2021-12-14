@@ -54,7 +54,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
-* J. Dubrulle, B. Quoitin and A. Gallais, Opportunities and limitations of multi-instance RPL, in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
+* J. Dubrulle, B. Quoitin and A. Gallais, [Opportunities and limitations of multi-instance RPL](https://ieeexplore.ieee.org/document/9600037/), in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Towards Secure and Leak-Free Workflows Using Microservice Isolation](https://doi.org/10.1109/HPSR52026.2021.9481820), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Verification of Cloud Security Policies](https://doi.org/10.1109/HPSR52026.2021.9481870), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
 * R. Juaçaba Neto, P. Merindol, A. Gallais and F. Theoleyre, [Scalability of LPWAN for Smart City Applications](https://doi.org/10.1109/IWCMC51323.2021.9498698), in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Harbin, China, June 2021.
