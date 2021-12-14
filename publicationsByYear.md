@@ -18,7 +18,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2021
-* L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Securing Workflows Using Microservices and Metagraphs](https://www.mdpi.com/journal/electronics/special_issues/communications_software_services), to appear in MDPI Electronics, special issue on Advances in Communications Software and Services, 2021.
+* L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Securing Workflows Using Microservices and Metagraphs](https://www.mdpi.com/2079-9292/10/24/3087), in MDPI Electronics, special issue on Advances in Communications Software and Services, 2021.
 * E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.
 * J. Dubrulle, B. Quoitin and A. Gallais, Opportunities and limitations of multi-instance RPL, in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
 * A. Gallais and Y. Imine, Cybersécurité des Systèmes industriels cyber-physiques, in Digitalisation et contrôle des systèmes industriels cyber-physiques (ISTE Editions, coordinated by O. Cardin, W. Derigent and D. Trentesaux), 2021.
