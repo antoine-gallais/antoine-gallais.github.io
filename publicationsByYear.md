@@ -17,11 +17,13 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 [Publications sorted by type](/publications)
 
+# 2022
+* A. Gallais and Y. Imine, Cybersecurity of Industrial Cyber-Physical Systems, in Digitalization and Control of Industrial Cyber-Physical Systems. Cardin, O., Derigent, W. and Trensaux, D. (eds), ISTE Ltd, London, and John Wiley & Sons, New York, ISBN: 9-781-78945-085-9, 2022. 
+
 # 2021
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Securing Workflows Using Microservices and Metagraphs](https://www.mdpi.com/2079-9292/10/24/3087), in MDPI Electronics, special issue on Advances in Communications Software and Services, 2021.
 * E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.
 * J. Dubrulle, B. Quoitin and A. Gallais, [Opportunities and limitations of multi-instance RPL](https://ieeexplore.ieee.org/document/9600037/), in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
-* A. Gallais and Y. Imine, Cybersécurité des Systèmes industriels cyber-physiques, in Digitalisation et contrôle des systèmes industriels cyber-physiques (ISTE Editions, coordinated by O. Cardin, W. Derigent and D. Trentesaux), 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, De l'Utilisation des Métagraphes pour la Vérification de Politiques de Sécurité, in Proc. 23èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel) - La Rochelle, France, June 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, Protection contre les fuites de données : un environnement micro-services sécurisé, in Proc. 6èmes Rencontres Francophones sur la Conception de Protocoles, l’Evaluation de Performance et l’EXpérimentation des Réseaux de Communication (CoRes) - La Rochelle, France, June 2021.
 * E. Bout, V. Loscri and A. Gallais, Evaluation de l’énergie et de la distance pour les attaques de brouillage dans les réseaux sans fil, in Proc. 6èmes Rencontres Francophones sur la Conception de Protocoles, l’Evaluation de Performance et l’EXpérimentation des Réseaux de Communication (CoRes) - La Rochelle, France, June 2021.
