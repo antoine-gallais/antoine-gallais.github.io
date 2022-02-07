@@ -3,6 +3,13 @@ layout: page
 title: Service
 ---
 
+## Academic duties
+
+* 2022 - *: Vice-head of the [LAMIH's Computer Science department](https://www.uphf.fr/LAMIH/en/computer-science)
+* 2020 - *: Elected member of the [LAMIH's Advisory board](https://www.uphf.fr/LAMIH/en)
+* 2020 - *: Coordinator of Engineer's degree in Computer science and cybersecurity at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)
+
+
 ## Organization committees
 
 * [EWSN’20 (Posters & Demos co-chair)](http://ewsn2020.conf.citi-lab.fr/)
