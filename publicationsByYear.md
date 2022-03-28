@@ -18,6 +18,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2022
+* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), to appear in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, May 30 - June 3, 2022.
+* E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), to appear in IEEE Internet of Things Magazine, 2022.
 * A. Gallais and Y. Imine, Cybersecurity of Industrial Cyber-Physical Systems, in Digitalization and Control of Industrial Cyber-Physical Systems. Cardin, O., Derigent, W. and Trensaux, D. (eds), ISTE Ltd, London, and John Wiley & Sons, New York, ISBN: 9-781-78945-085-9, 2022. 
 
 # 2021
