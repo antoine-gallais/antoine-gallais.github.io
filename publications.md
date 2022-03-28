@@ -30,6 +30,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), to appear in IEEE Internet of Things Magazine, 2022.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Securing Workflows Using Microservices and Metagraphs](https://www.mdpi.com/2079-9292/10/24/3087), in MDPI Electronics, special issue on Advances in Communications Software and Services, 2021.
 * E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.
 * E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou and A. Gallais, [Efficient Forwarding Strategy in HDRP Protocol based Internet of Things](https://www.journals.elsevier.com/computer-communications), in Elsevier Computer Communications, 2021.
@@ -54,6 +55,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
+* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), to appear in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, May 30 - June 3, 2022.
 * J. Dubrulle, B. Quoitin and A. Gallais, [Opportunities and limitations of multi-instance RPL](https://ieeexplore.ieee.org/document/9600037/), in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Towards Secure and Leak-Free Workflows Using Microservice Isolation](https://doi.org/10.1109/HPSR52026.2021.9481820), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Verification of Cloud Security Policies](https://doi.org/10.1109/HPSR52026.2021.9481870), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
