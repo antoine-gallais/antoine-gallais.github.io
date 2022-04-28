@@ -21,7 +21,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * E. Bout, V. Loscri and A. Gallais, [HARPAGON: An energy management framework for attacks in IoT networks](https://ieee-iotj.org/), to appear in IEEE Internet of Things Journal, 2022.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), to appear in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, May 30 - June 3, 2022.
 * E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), to appear in IEEE Internet of Things Magazine, 2022.
-* A. Gallais and Y. Imine, Cybersecurity of Industrial Cyber-Physical Systems, in Digitalization and Control of Industrial Cyber-Physical Systems. Cardin, O., Derigent, W. and Trensaux, D. (eds), ISTE Ltd, London, and John Wiley & Sons, New York, ISBN: 9-781-78945-085-9, 2022. 
+* A. Gallais and Y. Imine, [Cybersecurity of Industrial Cyber-Physical Systems](https://www.iste.co.uk/book.php?id=1891), in Digitalization and Control of Industrial Cyber-Physical Systems. Cardin, O., Derigent, W. and Trensaux, D. (eds), ISTE Ltd, London, and John Wiley & Sons, New York, ISBN: 9-781-78945-085-9, 2022. 
 
 # 2021
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Securing Workflows Using Microservices and Metagraphs](https://www.mdpi.com/2079-9292/10/24/3087), in MDPI Electronics, special issue on Advances in Communications Software and Services, 2021.
