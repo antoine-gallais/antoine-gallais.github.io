@@ -30,6 +30,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* E. Bout, V. Loscri and A. Gallais, [HARPAGON: An energy management framework for attacks in IoT networks](https://ieee-iotj.org/), to appear in IEEE Internet of Things Journal, 2022.
 * E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), to appear in IEEE Internet of Things Magazine, 2022.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Securing Workflows Using Microservices and Metagraphs](https://www.mdpi.com/2079-9292/10/24/3087), in MDPI Electronics, special issue on Advances in Communications Software and Services, 2021.
 * E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.
