@@ -34,13 +34,13 @@ I have the pleasure to co-advise the following PhD students:
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
     * Defense expected in 2023
     * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
-* [Loïc Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
-    * Funding: [Cisco](https://www.cisco.com/) 
-    * Defense expected in 2022
-    * Co-supervised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/)
 
 ## Past PhD Students
 I had the pleasure to co-advise the following PhD students:
+* [Loïc Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
+    * Funding: [Cisco](https://www.cisco.com/) 
+    * Defended in 2022
+    * Co-supervised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/)
 * [Amine Mohamed Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
     * Defended in 2020
