@@ -56,7 +56,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
-* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), to appear in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, May 30 - June 3, 2022.
+* E. Blanchard, A. Gallais, E. Leblond, D. Sidhoum-Rahal and J. Walter, [An analysis of the security and privacy issues of the Neovote online voting system](https://e-vote-id.org/), to appear in Proc. The International Conference for Electronic Voting (E-Vote-ID) - Bregenz, Austria, October 2022.
+* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, June 2022.
 * J. Dubrulle, B. Quoitin and A. Gallais, [Opportunities and limitations of multi-instance RPL](https://ieeexplore.ieee.org/document/9600037/), in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Towards Secure and Leak-Free Workflows Using Microservice Isolation](https://doi.org/10.1109/HPSR52026.2021.9481820), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Verification of Cloud Security Policies](https://doi.org/10.1109/HPSR52026.2021.9481870), in Proc. IEEE 22nd International Conference on High Performance Switching and Routing (HPSR, Short Track Session) - Paris, France, June 2021.
