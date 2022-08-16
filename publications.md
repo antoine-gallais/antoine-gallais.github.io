@@ -9,7 +9,6 @@ My [Erdös number](http://www.oakland.edu/enp/) is 3:
 ----
 Numerous other websites propose a (more or less) up-to-date publication list:
 * [Google Scholar](http://scholar.google.com/citations?user=9fmzAvwAAAAJ)
-* [ICube's page](http://icube-publis.unistra.fr/appli.php?author=Gallais)
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=8953127200)
 * [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gallais:Antoine.html)
 * [ACM Digital Library](https://dl.acm.org/author_page.cfm?id=81100409181)
@@ -56,6 +55,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
+* Y. Sellami, Y. Imine, A. Gallais, [An Efficient Data Integrity Verification Scheme For Distributed Fog Computing Architecture](http://www.wimob.org/wimob2022/), to appear in Proc. The 18th International Conference on Wireless and Mobile Computing, Networking and Communications (IEEE WiMob) - Thessaloniki, Greece, October 2022.
 * E. Blanchard, A. Gallais, E. Leblond, D. Sidhoum-Rahal and J. Walter, [An analysis of the security and privacy issues of the Neovote online voting system](https://e-vote-id.org/), to appear in Proc. The International Conference for Electronic Voting (E-Vote-ID) - Bregenz, Austria, October 2022.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, June 2022.
 * J. Dubrulle, B. Quoitin and A. Gallais, [Opportunities and limitations of multi-instance RPL](https://ieeexplore.ieee.org/document/9600037/), in Proc. IEEE 17th International Conference on Distributed Computing in Sensor Systems (DCOSS) - Cyprus, July 2021.
