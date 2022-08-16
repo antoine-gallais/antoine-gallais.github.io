@@ -55,6 +55,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
+* Y. Imine, A. Gallais, Y. Challal, [An efficient Federated Identity Management Protocol for Heterogeneous Fog computing Architecture](http://softcom2022.fesb.unist.hr/), to appear in Proc. The 30th International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - Split, Croatia, September 2022.
 * Y. Sellami, Y. Imine, A. Gallais, [An Efficient Data Integrity Verification Scheme For Distributed Fog Computing Architecture](http://www.wimob.org/wimob2022/), to appear in Proc. The 18th International Conference on Wireless and Mobile Computing, Networking and Communications (IEEE WiMob) - Thessaloniki, Greece, October 2022.
 * E. Blanchard, A. Gallais, E. Leblond, D. Sidhoum-Rahal and J. Walter, [An analysis of the security and privacy issues of the Neovote online voting system](https://e-vote-id.org/), to appear in Proc. The International Conference for Electronic Voting (E-Vote-ID) - Bregenz, Austria, October 2022.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, June 2022.
