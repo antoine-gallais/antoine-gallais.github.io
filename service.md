@@ -27,6 +27,9 @@ title: Service
 
 ## PhD committees
 
+* 2022
+   * Reviewer of "Optimization of Radio Duty Cycling protocols in Wireless Sensor Networks", by David Hauweele (University of Mons, Belgium, under supervision of Prof. B. Quoitin)
+   * Examiner of ["Intégration de solution blockchain dans un système global de traçabilité d'une usine opérationnelle"](https://www.theses.fr/s280716), by Valentin Mullet (Université du Littoral-Côte-d'Opale, France, under supervision of Prof. E. Ramat and Dr. P. Sondi)  
 * 2021
     * Reviewer of ["Polymorphic network protocol suite in heterogeneous wake-up IoT networks"](http://www.theses.fr/s270169), by Sebastian lucas Sampayo (Université de Strasbourg, France, under supervision of Prof. T. Noël and Dr. J. Montavont)  
 * 2020
@@ -44,12 +47,9 @@ basée sur le protocole OLSR."](https://www.theses.fr/s198584), by Youssef Lmou
     * Examiner of  ["Adaptive MAC layer for interference limited WSN"](https://www.theses.fr/201051729), by Viktor Toldov (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. L. Clavier and Dr. N. Mitton).
 * 2016
     * Reviewer of ["Scheduling strategies to improve quality of service for heterogeneous data over resource constrained wireless mesh networks"](http://scholar.sun.ac.za/handle/10019.1/101222?show=full), by Sajid Mubashir Sheikh (Stellenbosch University, South Africa, under supervision of Prof. T. Niesler and R. Wolhuter).
-* 2015
-    * Examiner of ["Improving Medium Access for Dynamic Wireless Sensor Networks"](http://www.theses.fr/2015STRAD034), by Georgios Papadopoulos (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
 * 2013
     * Examiner of ["Geographic routing for wireless actor and sensor networks"](https://www.theses.fr/2013LIL10185), by Nicolas Gouvy (USTL / Inria Lille - Nord Europe, France, under supervision of Prof. D. Simplot-Ryl and Dr. N. Mitton.
     * Reviewer of "A Cross-layer Communication Framework for Wireless Multimedia Sensor Networks", by [Zara Hamid](http://ww3.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=2092) (NUST, Pakistan, under supervision of Dr. F. Bashir and Dr. H. Afzal).
-    * Examiner of ["WSN auto-configuration and adaptation for remote healthcare"](https://www.theses.fr/2013STRAD020), by Julien Beaudaux (Université de Strasbourg / ICube, France, under supervision of Prof. T. Noël and Dr. A. Gallais).
     
 ## Technical program committees
 * 2019:
