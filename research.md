@@ -7,36 +7,39 @@ title: Research activities
 My research interests lie in ad hoc and sensor networks, and more generally in the Internet of Things (IoT) systems. After proposing some localized connected area coverage solutions during my PhD period (2004-2007), I have been tackling medium access control (MAC) and routing issues in IoT networks. For all the following activities, I consider fault-tolerance and security as two major cross-cutting challenges that must be addressed carefully. I especially focused on preamble-sampling approaches in order to enable a priori configuration of heterogeneous Low-Power Listening (LPL) values, runtime adaptation of preamble and sampling periods and communications of mobile nodes with a static infrastructure of LPL devices. Over the past few years, I have investigated the industrial Internet of Things (IIoT) and its emerging networking protocols to guarantee bounded delays and consumption. I am considering protocol stacks that are in the scope of some IETF working groups (e.g., 6lowPAN, roll, 6tsch) and which consider synchronous medium access (e.g. IEEE 802.15.4 standard). I am studying distributed strategies to schedule wireless transmissions, while reducing control overhead and taking into account network dynamics. Overall, I have been particularly interested in performance evaluation and research methodology to obtain scientific results that can be used and reproduced by the community.
 </p>
 
-## Open research positions
-We are looking for candidates on the following positions:
-* [Postdoc fellowship on security of wireless communications](https://euraxess.ec.europa.eu/jobs/654051)
-* [PhD position on biometrics](http://koliaza.com/biometrics-thesis-en.pdf)
-
 ## Current PhD Students
-I have the pleasure to co-advise the following PhD students:
-* [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), Université Polytechnique Hauts-de-France (France)
+I have the pleasure to co-supervise the following PhD students:
+* Jérôme Ridet, Université Polytechnique Hauts-de-France (France), on Human-centered design of security solutions.
+  * Frame: continuing education
+  * Defense expected in 2026
+  * Co-supervised with [Dr. Enka Blanchard](https://www.koliaza.com/)
+* [Mehdi Bouhamidi](https://www.linkedin.com/in/mehdi-bouhamidi-381ab7162/), Université Polytechnique Hauts-de-France (France), on Visual memory, biometrics and applications to cybersecurity.
+  * Funding: [UPHF](https://uphf.fr/)
+  * Defense expected in 2025
+  * Co-supervised with [Dr. Enka Blanchard](https://www.koliaza.com/)
+* [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), Université Polytechnique Hauts-de-France (France), on Secure data management in an IoT-Fog/Edge computing architecture.
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2024
   * Co-supervised with [Prof. Soumaya Cherkaoui](https://www.gel.usherbrooke.ca/interlab/index.php?page=soumaya) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
-* Antoine Marchand, Université Polytechnique Hauts-de-France (France) / [Orange Cyberdéfense](https://orangecyberdefense.com/) 
+* Antoine Marchand, Université Polytechnique Hauts-de-France (France) / [Orange Cyberdéfense](https://orangecyberdefense.com/), on Firmware integrity protection.
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/LAMIH/en/membre?id=ouarnoughi_hamza)
-* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), Université Polytechnique Hauts-de-France (France) / [IBM Security](https://www.ibm.com/security)
+* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), Université Polytechnique Hauts-de-France (France) / [IBM Security](https://www.ibm.com/security), on Collection and analysis of communication flows for the detection of cyber attacks.
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
-* [Ali Haj Assan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks 
+* [Ali Haj Assan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks.
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
     * Defense expected in 2023
     * Co-supervised with [Prof. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
-* [Emilie Bout](https://www.linkedin.com/in/emilie-bout-050a68117), Inria Lille - Nord Europe, on Denial-of-sleep attacks in wireless networks
+
+## Past PhD Students
+I had the pleasure to co-advise or co-supervise the following PhD students:
+* [Emilie Bout](https://www.linkedin.com/in/emilie-bout-050a68117), Inria Lille - Nord Europe, on Denial-of-sleep on IoT networks.
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
     * Defense expected in 2023
     * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
-
-## Past PhD Students
-I had the pleasure to co-advise the following PhD students:
 * [Loïc Miller](https://loicmiller.com/), University of Strasbourg, on Authentication and Authorization in Cloud Storage Systems
     * Funding: [Cisco](https://www.cisco.com/) 
     * Defended in 2022
@@ -44,23 +47,23 @@ I had the pleasure to co-advise the following PhD students:
 * [Amine Mohamed Falek](https://www.researchgate.net/profile/Amine_Falek2), University of Strasbourg, on optimization algorithms for personalized planning of dynamic and multimodal itineraries
     * Funding: CIFRE with [T&S Group](http://technologyandstrategy.group/) 
     * Defended in 2020
-    * Co-supervised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) 
+    * Co-advised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) 
 * [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), University of Strasbourg, on Standard improvements and predictable performance for industrial Internet of things in indoor deployments
     * funding: Idex Unistra 
     * Defended in 2019
-    * Co-supervised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/)
+    * Co-advised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/)
 * [Georgios Z. Papadopoulos](http://georgiospapadopoulos.com/), University of Strasbourg, on improving Medium Access for Dynamic Wireless Sensor Networks
     * funding: Idex Unistra
     * Defended in 2015
-    * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
+    * Co-advised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
 * [Julien Beaudaux](https://www.linkedin.com/in/jbeaudaux/), University of Strasbourg, on self-configuration of WSNs for remote healthcare
     * funding: Région Alsace
     * Defended in 2013
-    * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
+    * Co-advised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
 * [Romain Kuntz](https://www.linkedin.com/in/romainkuntz), University of Strasbourg, on medium access control facing the dynamics of wireless sensor networks
     * funding: Industrial contract
     * Defended in 2010
-    * Co-supervised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/) and [Dr. Julien Montavont](https://clarinet.u-strasbg.fr/~montavont/)
+    * Co-advised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/) and [Dr. Julien Montavont](https://clarinet.u-strasbg.fr/~montavont/)
  
 ## Ongoing research projects
 * 2021-23: GLOCAT ([Région HdF](https://www.hautsdefrance.fr/), Soutien aux Travaux Interdisciplinaires, Multi-établissements et Exploratoires - volet "Partenarial", STIMulE), GéoLOCalisation d’ATtaques sur réseaux sans fil
