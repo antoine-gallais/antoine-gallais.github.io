@@ -29,7 +29,7 @@ I have the pleasure to co-supervise the following PhD students:
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
-* [Ali Haj Assan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks.
+* [Ali Haj Hassan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgique), on Attack detection in industrial IoT networks.
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
     * Defense expected in 2023
     * Co-supervised with [Prof. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
