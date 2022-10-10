@@ -24,17 +24,17 @@ I have the pleasure to co-supervise the following PhD students:
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2024
   * Co-supervised with [Prof. Soumaya Cherkaoui](https://www.gel.usherbrooke.ca/interlab/index.php?page=soumaya) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
-* Antoine Marchand, on Firmware integrity protection.
+* Antoine Marchand, on [Firmware integrity protection](https://www.theses.fr/s277444).
     * Location: [Orange Cyberdéfense](https://orangecyberdefense.com/) / Université Polytechnique Hauts-de-France (France)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/LAMIH/en/membre?id=ouarnoughi_hamza)
-* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on Collection and analysis of communication flows for the detection of cyber attacks.
+* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on [Collection and analysis of communication flows for the detection of cyber attacks](https://www.theses.fr/s311184).
     * Location: [IBM Security](https://www.ibm.com/security) / Université Polytechnique Hauts-de-France (France)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
-* [Ali Haj Hassan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), on Attack detection in industrial IoT networks.
+* [Ali Haj Hassan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), on [Attack detection in industrial IoT networks](https://www.theses.fr/s275503).
     * Location: Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgium)
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
     * Defense expected in 2023
@@ -42,37 +42,37 @@ I have the pleasure to co-supervise the following PhD students:
 
 ## Past PhD Students
 I had the pleasure to co-advise or co-supervise the following PhD students:
-* [Emilie Bout](https://www.linkedin.com/in/emilie-bout-050a68117), on Denial-of-sleep on IoT networks.
+* [Emilie Bout](https://www.linkedin.com/in/emilie-bout-050a68117), on [Denial-of-sleep on IoT networks](https://www.theses.fr/s324012).
     * Location: Inria Lille - Nord Europe
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
-    * Defense expected in 2023
+    * Defense in 2022
     * Co-supervised with [Dr. Valeria Loscri](http://researchers.lille.inria.fr/~loscri/home.html)
-* [Loïc Miller](https://loicmiller.com/), on Authentication and Authorization in Cloud Storage Systems
+* [Loïc Miller](https://loicmiller.com/), on [Authentication and Authorization in Cloud Storage Systems](https://www.theses.fr/s269331).
     * Location: University of Strasbourg
     * Funding: [Cisco](https://www.cisco.com/) 
     * Defended in 2022
     * Co-supervised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Pascal Mérindol](https://clarinet.u-strasbg.fr/~merindol/)
-* [Amine Mohamed Falek](https://www.researchgate.net/profile/Amine_Falek2), on optimization algorithms for personalized planning of dynamic and multimodal itineraries
+* [Amine Mohamed Falek](https://www.researchgate.net/profile/Amine_Falek2), on [optimization algorithms for personalized planning of dynamic and multimodal itineraries](https://www.theses.fr/2020STRAD037)
     * Location: [T&S Group](http://technologyandstrategy.group/) / University of Strasbourg
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defended in 2020
     * Co-advised with [Prof. Cristel Pelsser](https://clarinet.u-strasbg.fr/~pelsser/) and [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/) 
-* [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), on Standard improvements and predictable performance for industrial Internet of things in indoor deployments
+* [Rodrigo Teles Hermeto](http://www.rodrigoteleshermeto.com/), on [Standard improvements and predictable performance for industrial Internet of things in indoor deployments](https://www.theses.fr/2019STRAD046).
     * Location: University of Strasbourg
     * funding: Idex Unistra 
     * Defended in 2019
     * Co-advised with [Dr. Fabrice Theoleyre](https://www.theoleyre.eu/)
-* [Georgios Z. Papadopoulos](http://georgiospapadopoulos.com/), on improving Medium Access for Dynamic Wireless Sensor Networks
+* [Georgios Z. Papadopoulos](http://georgiospapadopoulos.com/), on [improving Medium Access for Dynamic Wireless Sensor Networks](https://www.theses.fr/2015STRAD034).
     * Location: University of Strasbourg
     * funding: Idex Unistra
     * Defended in 2015
     * Co-advised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
-* [Julien Beaudaux](https://www.linkedin.com/in/jbeaudaux/), on self-configuration of WSNs for remote healthcare
+* [Julien Beaudaux](https://www.linkedin.com/in/jbeaudaux/), on [self-configuration of WSNs for remote healthcare](https://www.theses.fr/2013STRAD020).
     * Location: University of Strasbourg
     * funding: Région Alsace
     * Defended in 2013
     * Co-advised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/)
-* [Romain Kuntz](https://www.linkedin.com/in/romainkuntz), on medium access control facing the dynamics of wireless sensor networks
+* [Romain Kuntz](https://www.linkedin.com/in/romainkuntz), on [medium access control facing the dynamics of wireless sensor networks](https://www.theses.fr/2010STRA6077).
     * Location: University of Strasbourg
     * funding: Industrial contract
     * Defended in 2010
