@@ -23,7 +23,7 @@ I have the pleasure to co-supervise the following PhD students:
   * Location: Université Polytechnique Hauts-de-France (France)
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2024
-  * Co-supervised with [Prof. Soumaya Cherkaoui](https://www.gel.usherbrooke.ca/interlab/index.php?page=soumaya) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
+  * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * Antoine Marchand, on [Firmware integrity protection](https://www.theses.fr/s277444).
     * Location: [Orange Cyberdéfense](https://orangecyberdefense.com/) / Université Polytechnique Hauts-de-France (France)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
