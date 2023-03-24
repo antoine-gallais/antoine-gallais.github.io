@@ -16,6 +16,9 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 [Publications sorted by type](/publications)
 
+# 2023
+* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://www.sciencedirect.com/journal/ad-hoc-networks), to appear in Elsevier Ad Hoc Networks, 2023.
+
 # 2022
 * Y. Imine, A. Gallais, Y. Challal, [An efficient Federated Identity Management Protocol for Heterogeneous Fog computing Architecture](http://softcom2022.fesb.unist.hr/), to appear in Proc. The 30th International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - Split, Croatia, September 2022.
 * Y. Sellami, Y. Imine, A. Gallais, [An Efficient Data Integrity Verification Scheme For Distributed Fog Computing Architecture](http://www.wimob.org/wimob2022/), to appear in Proc. The 18th International Conference on Wireless and Mobile Computing, Networking and Communications (IEEE WiMob) - Thessaloniki, Greece, October 2022.
