@@ -17,14 +17,15 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2023
+* A. Touré, Y. Imine, T. Delot, A. Gallais, Alexis Semnont and Robin Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conefrence on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://www.sciencedirect.com/journal/ad-hoc-networks), to appear in Elsevier Ad Hoc Networks, 2023.
 
 # 2022
-* Y. Imine, A. Gallais, Y. Challal, [An efficient Federated Identity Management Protocol for Heterogeneous Fog computing Architecture](http://softcom2022.fesb.unist.hr/), to appear in Proc. The 30th International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - Split, Croatia, September 2022.
-* Y. Sellami, Y. Imine, A. Gallais, [An Efficient Data Integrity Verification Scheme For Distributed Fog Computing Architecture](http://www.wimob.org/wimob2022/), to appear in Proc. The 18th International Conference on Wireless and Mobile Computing, Networking and Communications (IEEE WiMob) - Thessaloniki, Greece, October 2022.
-* E. Blanchard, A. Gallais, E. Leblond, D. Sidhoum-Rahal and J. Walter, [An analysis of the security and privacy issues of the Neovote online voting system](https://e-vote-id.org/), to appear in Proc. The International Conference for Electronic Voting (E-Vote-ID) - Bregenz, Austria, October 2022.
+* Y. Imine, A. Gallais, Y. Challal, [An efficient Federated Identity Management Protocol for Heterogeneous Fog computing Architecture](https://ieeexplore.ieee.org/document/9911414), in Proc. The 30th International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - Split, Croatia, September 2022.
+* Y. Sellami, Y. Imine, A. Gallais, [An Efficient Data Integrity Verification Scheme For Distributed Fog Computing Architecture](https://doi.org/10.1109/WiMob55322.2022.9941581), in Proc. The 18th International Conference on Wireless and Mobile Computing, Networking and Communications (IEEE WiMob) - Thessaloniki, Greece, October 2022.
+* E. Blanchard, A. Gallais, E. Leblond, D. Sidhoum-Rahal and J. Walter, [An analysis of the security and privacy issues of the Neovote online voting system](https://doi.org/10.1007/978-3-031-15911-4_1), in Proc. The International Conference for Electronic Voting (E-Vote-ID) - Bregenz, Austria, October 2022.
 * E. Bout, V. Loscri and A. Gallais, [HARPAGON: An energy management framework for attacks in IoT networks](https://ieee-iotj.org/), to appear in IEEE Internet of Things Journal, 2022.
-* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://iwcmc.org/2022/), in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, June 2022.
+* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Zero-Touch Mutual Authentication Scheme for 6TiSCH Industrial IoT Networks](https://doi.org/10.1109/IWCMC55113.2022.9824568), in Proc. International Wireless Communications and Mobile Computing Conference (IWCMC) - Dubrovnik, Croatia, June 2022.
 * E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), to appear in IEEE Internet of Things Magazine, 2022.
 * A. Gallais and Y. Imine, [Cybersecurity of Industrial Cyber-Physical Systems](https://www.iste.co.uk/book.php?id=1891), in Digitalization and Control of Industrial Cyber-Physical Systems. Cardin, O., Derigent, W. and Trensaux, D. (eds), ISTE Ltd, London, and John Wiley & Sons, New York, ISBN: 9-781-78945-085-9, 2022. 
 
