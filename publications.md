@@ -24,6 +24,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # Book chapters
 
+* E. Bout, A. Gallais, V. Loscrí and A. M. Vegni, Energy Saving as a Security Threat in LPWAN and Internet of Things, in Low-Power Wide-Area Networks: Opportunities, Challenges, Risks and Threats. Ismail Butun and Ian F. Akyildiz (eds), Spring, in press, to appear in 2023. 
 * A. Gallais and Y. Imine, [Cybersecurity of Industrial Cyber-Physical Systems](https://www.iste.co.uk/book.php?id=1891), in Digitalization and Control of Industrial Cyber-Physical Systems. Cardin, O., Derigent, W. and Trensaux, D. (eds), ISTE Ltd, London, and John Wiley & Sons, New York, ISBN: 9-781-78945-085-9, 2022. 
 * A. Gallais, [Area Coverage in Wireless Sensor Networks](http://www.eurekaselect.com/52050/chapter/area-coverage-in-wireless-sensor-networks), in Handbook of Ad Hoc and Sensor Wireless Networks: Architectures, Algorithms and Protocols (Bentham Science Publishers), eISBN: 978-1-60805-018-5, 2009.
 
