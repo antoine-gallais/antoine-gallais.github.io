@@ -29,9 +29,9 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
-* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://www.sciencedirect.com/journal/ad-hoc-networks), to appear in Elsevier Ad Hoc Networks, 2023.
-* E. Bout, V. Loscri and A. Gallais, [HARPAGON: An energy management framework for attacks in IoT networks](https://ieee-iotj.org/), to appear in IEEE Internet of Things Journal, 2022.
-* E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), to appear in IEEE Internet of Things Magazine, 2022.
+* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://doi.org/10.1016/j.adhoc.2023.103162), to appear in Elsevier Ad Hoc Networks, 2023.
+* E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://doi.org/10.1109/IOTM.001.2100183), in IEEE Internet of Things Magazine, 2022.
+* E. Bout, V. Loscri and A. Gallais, [HARPAGON: An energy management framework for attacks in IoT networks](https://doi.org/10.1109/JIOT.2022.3172849), in IEEE Internet of Things Journal, 2022.
 * L. Miller, P. Mérindol, A. Gallais and C. Pelsser, [Securing Workflows Using Microservices and Metagraphs](https://www.mdpi.com/2079-9292/10/24/3087), in MDPI Electronics, special issue on Advances in Communications Software and Services, 2021.
 * E. Bout, V. Loscri and A. Gallais, [How Machine Learning changes the nature of cyberattacks on IoT networks: A survey](https://hal.archives-ouvertes.fr/hal-03390359), to appear in IEEE Communications Surveys and Tutorials, 2021.
 * E. A. Abdellaoui Alaoui, S. Koumetio Tekouabou and A. Gallais, [Efficient Forwarding Strategy in HDRP Protocol based Internet of Things](https://www.journals.elsevier.com/computer-communications), in Elsevier Computer Communications, 2021.
@@ -56,7 +56,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
-* A. Touré, Y. Imine, T. Delot, A. Gallais, Alexis Semnont and Robin Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conefrence on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
+* A. Touré, Y. Imine, T. Delot, A. Gallais, A. and R. Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conference on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
 * Y. Imine, A. Gallais, Y. Challal, [An efficient Federated Identity Management Protocol for Heterogeneous Fog computing Architecture](https://ieeexplore.ieee.org/document/9911414), in Proc. The 30th International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - Split, Croatia, September 2022.
 * Y. Sellami, Y. Imine, A. Gallais, [An Efficient Data Integrity Verification Scheme For Distributed Fog Computing Architecture](https://doi.org/10.1109/WiMob55322.2022.9941581), in Proc. The 18th International Conference on Wireless and Mobile Computing, Networking and Communications (IEEE WiMob) - Thessaloniki, Greece, October 2022.
 * E. Blanchard, A. Gallais, E. Leblond, D. Sidhoum-Rahal and J. Walter, [An analysis of the security and privacy issues of the Neovote online voting system](https://doi.org/10.1007/978-3-031-15911-4_1), in Proc. The International Conference for Electronic Voting (E-Vote-ID) - Bregenz, Austria, October 2022.
