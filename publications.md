@@ -30,6 +30,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* A. Marchand; Y. Imine, H. Ouarnoughi, T. Tarridec and A. Gallais, [Firmware Integrity Protection: A Survey](https://ieeexplore.ieee.org/document/10196361), in IEEE Access, vol. 11, 2023.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://doi.org/10.1016/j.adhoc.2023.103162), to appear in Elsevier Ad Hoc Networks, 2023.
 * E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://doi.org/10.1109/IOTM.001.2100183), in IEEE Internet of Things Magazine, 2022.
 * E. Bout, V. Loscri and A. Gallais, [HARPAGON: An energy management framework for attacks in IoT networks](https://doi.org/10.1109/JIOT.2022.3172849), in IEEE Internet of Things Journal, 2022.
