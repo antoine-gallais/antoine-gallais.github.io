@@ -17,6 +17,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2023
+* A. Marchand; Y. Imine, H. Ouarnoughi, T. Tarridec and A. Gallais, [Firmware Integrity Protection: A Survey](https://ieeexplore.ieee.org/document/10196361), in IEEE Access, vol. 11, 2023.
 * A. Touré, Y. Imine, T. Delot, A. Gallais, A. Semnont and R. Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conference on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
 * E. Bout, A. Gallais, V. Loscrí and A. M. Vegni, Energy Saving as a Security Threat in LPWAN and Internet of Things, in Low-Power Wide-Area Networks: Opportunities, Challenges, Risks and Threats. Ismail Butun and Ian F. Akyildiz (eds), Springer, in press, to appear in 2023. 
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://doi.org/10.1016/j.adhoc.2023.103162), to appear in Elsevier Ad Hoc Networks, 2023.
