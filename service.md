@@ -5,9 +5,11 @@ title: Service
 
 ## Academic duties
 
-* 2022 - *: Vice-head of the [LAMIH's Computer Science department](https://www.uphf.fr/LAMIH/en/computer-science)
-* 2020 - *: Elected member of the [LAMIH's Advisory board](https://www.uphf.fr/LAMIH/en)
-* 2020 - *: Coordinator of Engineer's degree in Computer science and cybersecurity at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)
+* Sept. 2023 - *: Head of Computer Science department of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)
+* Fev. 2022 - *: Elected member of computer science teaching department's board (INSA Hauts-de-France).
+* Jan. 2022 - Aug. 2023: Co-head of Computer Science department of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)
+* Sept. 2020 - *: Coordinator of Engineer's degree in Computer science and cybersecurity at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)
+* Mar. 2020 - *: Elected member of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)'s laboratory board.
 
 
 ## Organization committees
