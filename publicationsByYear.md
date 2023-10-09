@@ -19,7 +19,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 # 2023
 * Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture](https://www.sciencedirect.com/journal/future-generation-computer-systems), to appear in Future Generation Computer Systems, 2023.
 * A. Touré, Y. Imine, T. Delot, A. Gallais, A. Semnont and R. Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conference on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
-* E. Bout, A. Gallais, V. Loscrí and A. M. Vegni, [Energy Saving as a Security Threat in LPWAN and Internet of Things](https://link.springer.com/chapter/10.1007/978-3-031-32935-7_4), in Low-Power Wide-Area Networks: Opportunities, Challenges, Risks and Threats. Ismail Butun and Ian F. Akyildiz (eds), Springer, in press, to appear in 2023. 
+* E. Bout, A. Gallais, V. Loscrí and A. M. Vegni, [Energy Saving as a Security Threat in LPWAN and Internet of Things](https://link.springer.com/chapter/10.1007/978-3-031-32935-7_4), in Low-Power Wide-Area Networks: Opportunities, Challenges, Risks and Threats. Ismail Butun and Ian F. Akyildiz (eds), Springer, Online ISBN: 978-3-031-32935-7 2023. 
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://doi.org/10.1016/j.adhoc.2023.103162), to appear in Elsevier Ad Hoc Networks, 2023.
 
 # 2022
