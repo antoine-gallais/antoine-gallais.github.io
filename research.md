@@ -9,17 +9,22 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 
 ## Current PhD Students
 I have the pleasure to co-supervise the following PhD students:
-* Jérôme Ridet, on Human-centered design of security solutions.
+* Ferhat Mecerhed, on Security of Heterogeneous Named Data Networks for IoT Ecosystems
+    * Location: Université Polytechnique Hauts-de-France (France) / University of Lübeck (Germany)
+    * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [Univ. Lübeck](https://www.itm.uni-luebeck.de/home)
+    * Defense expected in 2026
+    * Co-supervised with [Prof. Dr. Stefan Fischer](https://www.itm.uni-luebeck.de/mitarbeitende/stefan-fischer), [Dr.-Ing. Mohamed Hail](https://www.itm.uni-luebeck.de/mitarbeitende/mohamed-hail) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
+* Jérôme Ridet, on [Human-centered design of security solutions](https://www.theses.fr/s361053).
   * Location: Université Polytechnique Hauts-de-France (France)
   * Frame: continuing education
   * Defense expected in 2026
   * Co-supervised with [Pr. David Duvivier](https://www.uphf.fr/lamih/membres/duvivier_david) and [Dr. Enka Blanchard](https://www.koliaza.com/)
-* [Mehdi Bouhamidi](https://www.linkedin.com/in/mehdi-bouhamidi-381ab7162/), on Visual memory, biometrics and applications to cybersecurity.
+* [Mehdi Bouhamidi](https://www.linkedin.com/in/mehdi-bouhamidi-381ab7162/), on [Visual memory, biometrics and applications to cybersecurity](https://www.theses.fr/s360934).
   * Location: Université Polytechnique Hauts-de-France (France)
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2025
   * Co-supervised with [Dr. Enka Blanchard](https://www.koliaza.com/)
-* [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), on Secure data management in an IoT-Fog/Edge computing architecture.
+* [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), on [Secure data management in an IoT-Fog/Edge computing architecture](https://www.theses.fr/s361063).
   * Location: Université Polytechnique Hauts-de-France (France)
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2024
@@ -34,14 +39,14 @@ I have the pleasure to co-supervise the following PhD students:
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
-* [Ali Haj Hassan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), on [Attack detection in industrial IoT networks](https://www.theses.fr/s275503).
-    * Location: Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgium)
-    * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
-    * Defense expected in 2023
-    * Co-supervised with [Prof. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 
 ## Past PhD Students
 I had the pleasure to co-advise or co-supervise the following PhD students:
+* [Ali Haj Hassan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), on [Attack detection in industrial IoT networks](https://www.theses.fr/s275503).
+    * Location: Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgium)
+    * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
+    * Defended on january 9th, 2024
+    * Co-supervised with [Prof. Bruno Quoitin](http://informatique.umons.ac.be/staff/Quoitin.Bruno/) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Emilie Bout](https://www.linkedin.com/in/emilie-bout-050a68117), on [Denial-of-sleep on IoT networks](https://www.theses.fr/s324012).
     * Location: Inria Lille - Nord Europe
     * Funding: [AID / Inria](https://www.defense.gouv.fr/aid)
