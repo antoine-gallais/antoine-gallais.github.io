@@ -34,7 +34,7 @@ I have the pleasure to co-supervise the following PhD students:
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/LAMIH/en/membre?id=ouarnoughi_hamza)
-* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on [Collection and analysis of communication flows for the detection of cyber attacks](https://www.theses.fr/s311184).
+* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on [Collection and analysis of communication flows for the detection of cyber attacks](https://www.theses.fr/s361082).
     * Location: [IBM Security](https://www.ibm.com/security) / Université Polytechnique Hauts-de-France (France)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
