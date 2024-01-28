@@ -29,10 +29,14 @@ title: Service
 
 ## PhD committees
 
+* 2023
+   * Examiner of ["Détection d'intrusions réaliste dans les maisons connectées à l'aide d'indicateurs physiques volatiles"](https://www.theses.fr/s332372), by Olivier Lourme (Univ. Lille, under supervision of M. Hauspie)
+
 * 2022
    * Examiner and committee president of ["Protocoles de communication basés sur un paradigme alternatif pour les appareils mobiles sans fil"](https://theses.fr/s333270), by Meysam Mayahi (Inria Lille - Nord Europe, under supervision of Valeria Loscri)
    * Reviewer of ["Réseaux IoT : Etude de solutions de mobilité sécurisée et intégration dans le réseau 5G"](https://theses.fr/s353064), by Hassan Jradi (INSA Rennes and Université Libanaise, under joint supervision of Prof. Fabienne Nouvel and Prof. Abed Ellatif Samhat)
-   * Reviewer of "Optimization of Radio Duty Cycling protocols in Wireless Sensor Networks", by David Hauweele (University of Mons, Belgium, under supervision of Prof. Beuno Quoitin)
+   * Reviewer of "Optimization of Radio Duty Cycling protocols in Wireless Sensor Networks", by David Hauweele (University of Mons, Belgium, under supervision of Prof. Bruno Quoitin)
+   * Reviewer of ["Structuration autonome des réseaux IoT de type LoRa / LoRaWAN"](https://www.theses.fr/2022REIMS003), by Joffrey Herard (Univ. Reims Champagne-Ardenne, France, under supervision of Prof. O. Flauzac et Dr. F. Nolot)
    * Examiner and committee president of ["Intégration de solution blockchain dans un système global de traçabilité d'une usine opérationnelle"](https://www.theses.fr/s280716), by Valentin Mullet (Université du Littoral-Côte-d'Opale, France, under supervision of Prof. E. Ramat and Dr. P. Sondi)  
 * 2021
     * Reviewer of ["Polymorphic network protocol suite in heterogeneous wake-up IoT networks"](http://www.theses.fr/s270169), by Sebastian lucas Sampayo (Université de Strasbourg, France, under supervision of Prof. T. Noël and Dr. J. Montavont)  
