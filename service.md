@@ -14,6 +14,7 @@ title: Service
 
 ## Organization committees
 
+* [WiMob'23 (TPC co-chair)](http://www.wimob.org/wimob2023/committees.php)
 * [EWSN’20 (Posters & Demos co-chair)](http://ewsn2020.conf.citi-lab.fr/)
 * [CoRes’19 (TPC co-chair)](https://www.irit.fr/cores2019/)
 * [IEEE SAS'19, special session on Wireless Sensors Networks (co-chair)](http://sensorapps.org/pages/special-sessions-0)
@@ -60,6 +61,24 @@ basée sur le protocole OLSR."](https://www.theses.fr/s198584), by Youssef Lmou
     * Reviewer of "A Cross-layer Communication Framework for Wireless Multimedia Sensor Networks", by [Zara Hamid](http://ww3.comsats.edu.pk/faculty/FacultyDetails.aspx?Uid=2092) (NUST, Pakistan, under supervision of Dr. F. Bashir and Dr. H. Afzal).
     
 ## Technical program committees
+* 2024:
+    * [IEEE ICNC'24](http://www.conf-icnc.org/2024/)
+* 2023:
+    * [IEEE WiMob'23](http://www.wimob.org/wimob2023/committees.php)
+    * [SotfCOM'23](https://2023.softcom.fesb.unist.hr/)
+* 2022:
+    * [IEEE CSCN'22](https://cscn2022.ieee-cscn.org/)
+    * [IEEE ICPS'22](https://icps2022.org/)
+    * [IEEE ICCCN'22](http://www.icccn.org/icccn22/index.html)
+    * [IEEE GIIS'22](http://giis2022.org/)
+* 2021:
+    * [IEEE ICCCN'21](http://www.icccn.org/icccn22/index.html)
+* 2020:
+    * [IEEE ICNC'20](http://www.conf-icnc.org/2020/)
+    * [IEEE EWSN'20](https://ewsn2020.conf.citi-lab.fr/)
+    * [IEEE Globecom'20](http://globecom2020.ieee-globecom.org)
+    * [IEEE PERSIST-IoT'20](https://infocom2020.ieee-infocom.org/workshop-pervasive-systems-iot-era-call-papers.html)
+    * [IEEE DIPI'20](https://www.cs.ucc.ie/wowmom2020/workshops/)
 * 2019:
     * [IEEE MENACOMM'19](http://menacomm2019.org/)
     * [IEEE Globecom'19](http://globecom2019.ieee-globecom.org)
