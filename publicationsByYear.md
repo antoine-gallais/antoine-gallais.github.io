@@ -17,8 +17,8 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2024
-* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, Detecting Malicious Proxy Nodes during IoT Network Joining Phase, to appear in Elsevier Computer Networks, 2024.
-
+* A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308),in Elsevier Computer Networks, vol. 243, 2024.
+  
 # 2023
 * Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture](https://www.sciencedirect.com/journal/future-generation-computer-systems), to appear in Future Generation Computer Systems, 2023.
 * A. Touré, Y. Imine, T. Delot, A. Gallais, A. Semnont and R. Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conference on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
