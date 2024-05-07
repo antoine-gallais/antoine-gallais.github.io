@@ -30,6 +30,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, A Protocol for Detecting Zero-Day Exploits in Network Flows, to appear in Elsevier Computer Networks, 2024.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308),in Elsevier Computer Networks, vol. 243, 2024.
 * Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture](https://www.sciencedirect.com/journal/future-generation-computer-systems), to appear in Future Generation Computer Systems, 2023.
 * A. Marchand, Y. Imine, H. Ouarnoughi, T. Tarridec and A. Gallais, [Firmware Integrity Protection: A Survey](https://ieeexplore.ieee.org/document/10196361), in IEEE Access, vol. 11, 2023.
