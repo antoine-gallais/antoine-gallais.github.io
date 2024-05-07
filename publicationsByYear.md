@@ -17,6 +17,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2024
+* A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, A Protocol for Detecting Zero-Day Exploits in Network Flows, to appear in Elsevier Computer Networks, 2024.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308),in Elsevier Computer Networks, vol. 243, 2024.
   
 # 2023
