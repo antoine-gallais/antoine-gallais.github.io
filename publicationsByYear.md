@@ -10,7 +10,7 @@ My [Erdös number](http://www.oakland.edu/enp/) is 3:
 Numerous other websites propose a (more or less) up-to-date publication list:
 * [Google Scholar](http://scholar.google.com/citations?user=9fmzAvwAAAAJ)
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=8953127200)
-* [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Gallais:Antoine.html)
+* [DBLP](https://dblp.org/pid/16/690.html)
 * [ACM Digital Library](https://dl.acm.org/author_page.cfm?id=81100409181)
 * [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?sortType=newest&searchWithin=%22First%20Name%22:%22Antoine%22&searchWithin=%22Last%20Name%22:%22Gallais%22)
 
