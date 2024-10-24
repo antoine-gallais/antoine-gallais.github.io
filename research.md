@@ -34,14 +34,14 @@ I have the pleasure to co-supervise the following PhD students:
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
     * Defense expected in 2024
     * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/LAMIH/en/membre?id=ouarnoughi_hamza)
-* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on [Collection and analysis of communication flows for the detection of cyber attacks](https://www.theses.fr/s361082).
-    * Location: [IBM Security](https://www.ibm.com/security) / Université Polytechnique Hauts-de-France (France)
-    * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
-    * Defense expected in 2024
-    * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 
 ## Past PhD Students
 I had the pleasure to co-advise or co-supervise the following PhD students:
+* [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on [Collection and analysis of communication flows for the detection of cyber attacks](https://www.theses.fr/s361082).
+    * Location: [IBM Security](https://www.ibm.com/security) / Université Polytechnique Hauts-de-France (France)
+    * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
+    * Defense on july 5th, 2024
+    * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Ali Haj Hassan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), on [Attack detection in industrial IoT networks](https://www.theses.fr/s275503).
     * Location: Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgium)
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [UMons](https://web.umons.ac.be/)
@@ -84,12 +84,12 @@ I had the pleasure to co-advise or co-supervise the following PhD students:
     * Co-advised with [Prof. Thomas Noël](https://clarinet.u-strasbg.fr/~noel/) and [Dr. Julien Montavont](https://clarinet.u-strasbg.fr/~montavont/)
  
 ## Ongoing research projects
-* 2021-23: GLOCAT ([Région HdF](https://www.hautsdefrance.fr/), Soutien aux Travaux Interdisciplinaires, Multi-établissements et Exploratoires - volet "Partenarial", STIMulE), GéoLOCalisation d’ATtaques sur réseaux sans fil
-* 2020-23: [GIS CybCOM](https://cybcom.univ-gustave-eiffel.fr/) ([Région HdF](https://www.hautsdefrance.fr/), Soutien à l’animation de collectifs de recherche, SACR), Cyber sécurité des systèmes embarqués communicants sans fil
+* 2020-*: [GIS CybCOM](https://cybcom.univ-gustave-eiffel.fr/) ([Région HdF](https://www.hautsdefrance.fr/), Soutien à l’animation de collectifs de recherche, SACR), Cyber sécurité des systèmes embarqués communicants sans fil
 * 2021-2025: [CIRRELT](https://www.cirrelt.ca/)-[LAMIH](https://www.uphf.fr/LAMIH/en/presentation) International Research Project (IRP CNRS)
-* 2020-2023: Cyber F-IT ([Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/), Strategic Partnerships for higher education), Cyber Security – Training Students and Scholars for the Challenges of Information and Communication Technologies in Research and Studies for Internationalisation
 
 ## Past research projects
+* 2021-23: GLOCAT ([Région HdF](https://www.hautsdefrance.fr/), Soutien aux Travaux Interdisciplinaires, Multi-établissements et Exploratoires - volet "Partenarial", STIMulE), GéoLOCalisation d’ATtaques sur réseaux sans fil
+* 2020-2023: Cyber F-IT ([Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/), Strategic Partnerships for higher education), Cyber Security – Training Students and Scholars for the Challenges of Information and Communication Technologies in Research and Studies for Internationalisation
 * 2018-2021: Secure workflow access control (Cisco)
 * 2018-2021: nano-NET ([ANR JCJC](http://www.agence-nationale-recherche.fr/suivi-bilan/historique-des-appels-a-projets/appel-detail1/appel-a-projets-generique-2018/)), Nano Autonomous Systems for a totally Decentralized Internet.
 * 2017-2018: NETINDUS ([PHC Tournesol](https://www.campusfrance.org/fr/tournesol-communaute-francaise)), 
