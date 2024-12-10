@@ -20,7 +20,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 * F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, [An Efficient Decentralized Fine-grained Access Control for IoT Ecosystems over NDN](https://doi.org/10.23919/SoftCOM62040.2024.10721767), in Proc. International Conference on Software, Telecommunications and Computer (SoftCom), 2024.
 * A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, [A framework for detecting zero-day exploits in network flows](https://doi.org/10.1016/j.comnet.2024.110476), in Elsevier Computer Networks, 2024.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308), in Elsevier Computer Networks, vol. 243, 2024.
-* Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture](https://www.sciencedirect.com/journal/future-generation-computer-systems), in Future Generation Computer Systems, 2024.
+* Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture]([https://www.sciencedirect.com/journal/future-generation-computer-systems](https://doi.org/10.1016/j.future.2023.08.016)), in Future Generation Computer Systems, Vol. 150, pp 64-77, January 2024.
   
 # 2023
 * A. Touré, Y. Imine, T. Delot, A. Gallais, A. Semnont and R. Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), in Proc. 38th International Conference on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
