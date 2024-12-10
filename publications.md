@@ -32,7 +32,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 * A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, [A framework for detecting zero-day exploits in network flows](https://doi.org/10.1016/j.comnet.2024.110476), in Elsevier Computer Networks, 2024.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308),in Elsevier Computer Networks, vol. 243, 2024.
-* Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture]([https://www.sciencedirect.com/journal/future-generation-computer-systems](https://doi.org/10.1016/j.future.2023.08.016)), in Future Generation Computer Systems, Vol. 150, pp 64-77, January 2024.
+* Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture](https://doi.org/10.1016/j.future.2023.08.016), in Future Generation Computer Systems, Vol. 150, pp 64-77, January 2024.
 * A. Marchand, Y. Imine, H. Ouarnoughi, T. Tarridec and A. Gallais, [Firmware Integrity Protection: A Survey](https://ieeexplore.ieee.org/document/10196361), in IEEE Access, vol. 11, 2023.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://doi.org/10.1016/j.adhoc.2023.103162), in Elsevier Ad Hoc Networks, vol. 145, June 2023.
 * E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://doi.org/10.1109/IOTM.001.2100183), in IEEE Internet of Things Magazine, 2022.
