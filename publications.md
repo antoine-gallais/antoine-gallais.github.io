@@ -30,9 +30,9 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
-* A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, A Protocol for Detecting Zero-Day Exploits in Network Flows, to appear in Elsevier Computer Networks, 2024.
+* A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, [A framework for detecting zero-day exploits in network flows](https://doi.org/10.1016/j.comnet.2024.110476), in Elsevier Computer Networks, 2024.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308),in Elsevier Computer Networks, vol. 243, 2024.
-* Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture](https://www.sciencedirect.com/journal/future-generation-computer-systems), to appear in Future Generation Computer Systems, 2023.
+* Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture]([https://www.sciencedirect.com/journal/future-generation-computer-systems](https://doi.org/10.1016/j.future.2023.08.016)), in Future Generation Computer Systems, Vol. 150, pp 64-77, January 2024.
 * A. Marchand, Y. Imine, H. Ouarnoughi, T. Tarridec and A. Gallais, [Firmware Integrity Protection: A Survey](https://ieeexplore.ieee.org/document/10196361), in IEEE Access, vol. 11, 2023.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Consensus-Based Mutual Authentication Scheme for Industrial IoT](https://doi.org/10.1016/j.adhoc.2023.103162), in Elsevier Ad Hoc Networks, vol. 145, June 2023.
 * E. Bout, V. Loscri and A. Gallais, [Evolution of IoT Security: the era of smart attacks](https://doi.org/10.1109/IOTM.001.2100183), in IEEE Internet of Things Magazine, 2022.
@@ -61,6 +61,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
+* F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, [An Efficient Decentralized Fine-grained Access Control for IoT Ecosystems over NDN](https://doi.org/10.23919/SoftCOM62040.2024.10721767), in Proc. International Conference on Software, Telecommunications and Computer (SoftCom), 2024.
 * A. Touré, Y. Imine, T. Delot, A. Gallais, A. and R. Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conference on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
 * Y. Imine, A. Gallais, Y. Challal, [An efficient Federated Identity Management Protocol for Heterogeneous Fog computing Architecture](https://ieeexplore.ieee.org/document/9911414), in Proc. The 30th International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - Split, Croatia, September 2022.
 * Y. Sellami, Y. Imine, A. Gallais, [An Efficient Data Integrity Verification Scheme For Distributed Fog Computing Architecture](https://doi.org/10.1109/WiMob55322.2022.9941581), in Proc. The 18th International Conference on Wireless and Mobile Computing, Networking and Communications (IEEE WiMob) - Thessaloniki, Greece, October 2022.
