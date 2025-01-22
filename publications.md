@@ -61,6 +61,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International conferences
 
+* Y. Sellami, Y. Imine, A. Gallais, [A Distributed and Collaborative NTRU-based Cryptographic Scheme for Edge-IoT Architecture](), in Proc. IEEE International Conference on Communications (ICC) - Montreal, Canada, June 2025, to appear.
 * F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, [An Efficient Decentralized Fine-grained Access Control for IoT Ecosystems over NDN](https://doi.org/10.23919/SoftCOM62040.2024.10721767), in Proc. International Conference on Software, Telecommunications and Computer (SoftCom), 2024.
 * A. Touré, Y. Imine, T. Delot, A. Gallais, A. and R. Giraudo, [Automated and Improved Detection of Cyber Attacks via an Industrial IDS Probe](https://ifipsec2023.psnc.pl/), to appear in Proc. 38th International Conference on ICT systems security and privacy protection (IFIP SEC) - Poznan, Poland, June 2023.
 * Y. Imine, A. Gallais, Y. Challal, [An efficient Federated Identity Management Protocol for Heterogeneous Fog computing Architecture](https://ieeexplore.ieee.org/document/9911414), in Proc. The 30th International Conference on Software, Telecommunications and Computer Networks (SoftCOM) - Split, Croatia, September 2022.
