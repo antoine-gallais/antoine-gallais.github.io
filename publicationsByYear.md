@@ -16,6 +16,9 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 [Publications sorted by type](/publications)
 
+# 2025
+* Y. Sellami, Y. Imine, A. Gallais, [A Distributed and Collaborative NTRU-based Cryptographic Scheme for Edge-IoT Architecture](), in Proc. IEEE International Conference on Communications (ICC) - Montreal, Canada, June 2025, to appear.
+
 # 2024
 * F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, [An Efficient Decentralized Fine-grained Access Control for IoT Ecosystems over NDN](https://doi.org/10.23919/SoftCOM62040.2024.10721767), in Proc. International Conference on Software, Telecommunications and Computer (SoftCom), 2024.
 * A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, [A framework for detecting zero-day exploits in network flows](https://doi.org/10.1016/j.comnet.2024.110476), in Elsevier Computer Networks, 2024.
