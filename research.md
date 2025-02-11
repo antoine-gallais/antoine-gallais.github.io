@@ -24,11 +24,6 @@ I have the pleasure to co-supervise the following PhD students:
   * Funding: [UPHF](https://uphf.fr/)
   * Defense expected in 2025
   * Co-supervised with [Dr. Enka Blanchard](https://www.koliaza.com/)
-* [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), on [Secure data management in an IoT-Fog/Edge computing architecture](https://www.theses.fr/s361063).
-  * Location: Université Polytechnique Hauts-de-France (France)
-  * Funding: [UPHF](https://uphf.fr/)
-  * Defense expected in 2024
-  * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * Antoine Marchand, on [Firmware integrity protection](https://www.theses.fr/s361023).
     * Location: [Orange Cyberdéfense](https://orangecyberdefense.com/) / Université Polytechnique Hauts-de-France (France)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
@@ -37,6 +32,11 @@ I have the pleasure to co-supervise the following PhD students:
 
 ## Past PhD Students
 I had the pleasure to co-advise or co-supervise the following PhD students:
+* [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), on [Secure data management in an IoT-Fog/Edge computing architecture](https://www.theses.fr/s361063).
+  * Location: Université Polytechnique Hauts-de-France (France)
+  * Funding: [UPHF](https://uphf.fr/)
+  * Defense on november 22nd, 2024
+  * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on [Collection and analysis of communication flows for the detection of cyber attacks](https://www.theses.fr/s361082).
     * Location: [IBM Security](https://www.ibm.com/security) / Université Polytechnique Hauts-de-France (France)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
