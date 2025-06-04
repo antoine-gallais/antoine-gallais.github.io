@@ -22,25 +22,25 @@ I have the pleasure to co-supervise the following PhD students:
 * [Mehdi Bouhamidi](https://www.linkedin.com/in/mehdi-bouhamidi-381ab7162/), on [Visual memory, biometrics and applications to cybersecurity](https://www.theses.fr/s360934).
   * Location: Université Polytechnique Hauts-de-France (France)
   * Funding: [UPHF](https://uphf.fr/)
-  * Defense expected in 2025
+  * Defense expected in 2026
   * Co-supervised with [Dr. Enka Blanchard](https://www.koliaza.com/)
-* Antoine Marchand, on [Firmware integrity protection](https://www.theses.fr/s361023).
-    * Location: [Orange Cyberdéfense](https://orangecyberdefense.com/) / Université Polytechnique Hauts-de-France (France)
-    * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
-    * Defense expected in 2024
-    * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/LAMIH/en/membre?id=ouarnoughi_hamza)
 
 ## Past PhD Students
 I had the pleasure to co-advise or co-supervise the following PhD students:
+* Antoine Marchand, on [Firmware integrity protection](https://www.theses.fr/s361023).
+    * Location: [Orange Cyberdéfense](https://orangecyberdefense.com/) / Université Polytechnique Hauts-de-France (France)
+    * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
+    * Defended on may 26th, 2025
+    * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Hamza Ouarnoughi](https://www.uphf.fr/LAMIH/en/membre?id=ouarnoughi_hamza)
 * [Youssef Sellami](https://www.linkedin.com/in/youssef-sellami-475ab3177/), on [Secure data management in an IoT-Fog/Edge computing architecture](https://www.theses.fr/s361063).
   * Location: Université Polytechnique Hauts-de-France (France)
   * Funding: [UPHF](https://uphf.fr/)
-  * Defense on november 22nd, 2024
+  * Defended on november 22nd, 2024
   * Co-supervised with [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Almamy Touré](https://www.linkedin.com/in/almamy-tour%C3%A9-148a19114), on [Collection and analysis of communication flows for the detection of cyber attacks](https://www.theses.fr/s361082).
     * Location: [IBM Security](https://www.ibm.com/security) / Université Polytechnique Hauts-de-France (France)
     * Funding: [ANRT Cifre](http://www.anrt.asso.fr/fr/cifre-7843)
-    * Defense on july 5th, 2024
+    * Defended on july 5th, 2024
     * Co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 * [Ali Haj Hassan](https://www.linkedin.com/in/alihajhassan/?originalSubdomain=fr), on [Attack detection in industrial IoT networks](https://www.theses.fr/s275503).
     * Location: Université Polytechnique Hauts-de-France (France) / Université de Mons (Belgium)
