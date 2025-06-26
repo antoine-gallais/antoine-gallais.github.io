@@ -19,11 +19,6 @@ I have the pleasure to co-supervise the following PhD students:
   * Frame: continuing education
   * Defense expected in 2026
   * Co-supervised with [Pr. David Duvivier](https://www.uphf.fr/lamih/membres/duvivier_david) and [Dr. Enka Blanchard](https://www.koliaza.com/)
-* [Mehdi Bouhamidi](https://www.linkedin.com/in/mehdi-bouhamidi-381ab7162/), on [Visual memory, biometrics and applications to cybersecurity](https://www.theses.fr/s360934).
-  * Location: Université Polytechnique Hauts-de-France (France)
-  * Funding: [UPHF](https://uphf.fr/)
-  * Defense expected in 2026
-  * Co-supervised with [Dr. Enka Blanchard](https://www.koliaza.com/)
 
 ## Past PhD Students
 I had the pleasure to co-advise or co-supervise the following PhD students:
