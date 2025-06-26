@@ -9,6 +9,12 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 
 ## Current PhD Students
 I have the pleasure to co-supervise the following PhD students:
+* Mohammed Touami, on Trustworthy Federated Learning for critical incident detection in edge computing systems
+    * Location: Université Polytechnique Hauts-de-France (France)
+    * Funding: [MITI CNRS](https://miti.cnrs.fr/)
+    * defense expected in 2028
+    * co-supervised with [Pr. K. Branco](https://sites.icmc.usp.br/kalinka/index_eng.html) and Dr. Y. Imine
+
 * Ferhat Mecerhed, on Security of Heterogeneous Named Data Networks for IoT Ecosystems
     * Location: Université Polytechnique Hauts-de-France (France) / University of Lübeck (Germany)
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [Univ. Lübeck](https://www.itm.uni-luebeck.de/home)
