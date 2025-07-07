@@ -30,6 +30,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
+* Y. Sellami, Y. Imine and A. Gallais, [Fog-Blockchain Fusion For Event Evaluation And Trust Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), in IEEE Transactions on Dependable and Secure Computing, to appear in 2025.
 * A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, [A framework for detecting zero-day exploits in network flows](https://doi.org/10.1016/j.comnet.2024.110476), in Elsevier Computer Networks, 2024.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308),in Elsevier Computer Networks, vol. 243, 2024.
 * Y. Sellami, Y. Imine and A. Gallais, [A Verifiable Data Integrity Scheme For Distributed Data Sharing In Fog Computing Architecture](https://doi.org/10.1016/j.future.2023.08.016), in Future Generation Computer Systems, Vol. 150, pp 64-77, January 2024.
