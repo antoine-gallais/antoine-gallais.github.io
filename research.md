@@ -9,11 +9,23 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 
 ## Current PhD Students
 I have the pleasure to co-supervise the following PhD students:
+* Dedy Irawan, on Reliable and Secured Data transmission protocols over connected objects
+    * Location: Université Polytechnique Hauts-de-France (France)
+    * Funding: [BRIN Indonesia](https://www.brin.go.id/en)
+    * defense expected in 2029
+    * co-supervised with [Prof. Thierry Delot](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
+
+* Aziiz Surahman Sudradjat, on Taking human vulnerabilities into account in industrial cybersecurity analysis: an approach integrating the MITRE ATT&CK framework and requirements engineering for security policy management
+    * Location: Université Polytechnique Hauts-de-France (France)
+    * Funding: [LPDP Indonesia](https://lpdp.kemenkeu.go.id/)
+    * defense expected in 2029
+    * co-supervised with [Pr. P. Polet](https://www.uphf.fr/lamih/membres/polet_philippe) and [Dr. D. Petit](https://www.uphf.fr/portraits/dorian-petit)
+
 * Mohammed Touami, on Trustworthy Federated Learning for critical incident detection in edge computing systems
     * Location: Université Polytechnique Hauts-de-France (France)
     * Funding: [MITI CNRS](https://miti.cnrs.fr/)
     * defense expected in 2028
-    * co-supervised with [Pr. K. Branco](https://sites.icmc.usp.br/kalinka/index_eng.html) and Dr. Y. Imine
+    * co-supervised with [Pr. K. Branco](https://sites.icmc.usp.br/kalinka/index_eng.html) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
 
 * Ferhat Mecerhed, on Security of Heterogeneous Named Data Networks for IoT Ecosystems
     * Location: Université Polytechnique Hauts-de-France (France) / University of Lübeck (Germany)
