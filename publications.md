@@ -30,7 +30,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # International journals
 
-* F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, Robust Attribute-based Access Control Protocol over Data-centric IoT-NDN Networking, to appear in Elsevier Ad Hoc Networks.
+* F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, [Robust Attribute-based Access Control Protocol over Data-centric IoT-NDN Networking](https://doi.org/10.1016/j.adhoc.2025.104087), in Elsevier Ad Hoc Networks, Volume 182, 2026.
 * Y. Sellami, Y. Imine and A. Gallais, [Fog-Blockchain Fusion For Event Evaluation And Trust Management](https://doi.org/10.1109/TDSC.2025.3587589), in IEEE Transactions on Dependable and Secure Computing, July 2025.
 * A. Touré, Y. Imine, A. Semnont, T. Delot, A. Gallais, [A framework for detecting zero-day exploits in network flows](https://doi.org/10.1016/j.comnet.2024.110476), in Elsevier Computer Networks, 2024.
 * A. Haj-Hassan, Y. Imine, A. Gallais and B. Quoitin, [Detecting Malicious Proxy Nodes during IoT Network Joining Phase](https://doi.org/10.1016/j.comnet.2024.110308),in Elsevier Computer Networks, vol. 243, 2024.
