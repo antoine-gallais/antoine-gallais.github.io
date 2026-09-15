@@ -21,7 +21,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 
 # 2025
 * Y. Sellami, Y. Imine and A. Gallais, [Fog-Blockchain Fusion For Event Evaluation And Trust Management](https://doi.org/10.1109/TDSC.2025.3587589), in IEEE Transactions on Dependable and Secure Computing, July 2025.
-* Y. Sellami, Y. Imine and A. Gallais, [A Distributed and Collaborative NTRU-based Cryptographic Scheme for Edge-IoT Architecture](), in Proc. IEEE International Conference on Communications (ICC) - Montreal, Canada, June 2025.
+* Y. Sellami, Y. Imine and A. Gallais, [A Distributed and Collaborative NTRU-based Cryptographic Scheme for Edge-IoT Architecture](https://ieeexplore.ieee.org/document/11161196), in Proc. IEEE International Conference on Communications (ICC) - Montreal, QC, Canada, pp. 4239-4244, June 2025.
 
 # 2024
 * F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, [An Efficient Decentralized Fine-grained Access Control for IoT Ecosystems over NDN](https://doi.org/10.23919/SoftCOM62040.2024.10721767), in Proc. International Conference on Software, Telecommunications and Computer (SoftCom), 2024.
