@@ -33,7 +33,14 @@ title: Service
 * ING'05 (national summer school)
 
 ## PhD committees
-
+An up-to-date list of national committees is available via [the french national PhD portal](https://theses.fr/119931141)
+* 2025
+   * Examiner and committee president of ["Characterisation of Anomalous Behaviour for Security in Deep-Edge Wireless Systems : Applied Machine Learning From On-Device Jamming Detection to Collaborative Intelligence"](https://theses.fr/2025ULILB053), by Jiali Xu (Université de Lille, under supervision of Valeria Loscrì and Romain Rouvoy)
+   * Examiner and committee president of ["A Secure Edge Gateway Design for IoT : An Adaptive Approach for Multi-Application and Multi-Protocol Integration"](https://theses.fr/2025REIMS016), by Abdulkadir Dauda (Univ. Reims, under supervision of Olivier Flauzac and Florent Nolot) 
+   * Examiner of ["Efficient and lightweight approaches for smart constraint-based systems"](https://theses.fr/2025PAST2050), by Ahmed Hamdi  sous la direction de Hassan Noura et de Joseph Azar - Informatique - Besançon, Université Marie et Louis Pasteur
+* 2024
+   * Reviewer of ["Integration of cybersecurity and safety to improve the resilience of industrial railway control systems"](https://theses.fr/2024BRES0112), by Dionysia Varvarigou (Univ. Bretagne Occidentale, under supervision of David Espès, Giacomo Bersano and Armand Lang)
+   * Reviewer of ["Cache Orchestration and Optimization in IoT Networks"](https://theses.fr/2024AVIG0105), by Sahand Khodaparas talatapeh (Univ. Avignon, under supervision of Abderrahim Benslimane and Saleh Yousefi)
 * 2023
    * Examiner of ["Détection d'intrusions réaliste dans les maisons connectées à l'aide d'indicateurs physiques volatiles"](https://www.theses.fr/s332372), by Olivier Lourme (Univ. Lille, under supervision of M. Hauspie)
 
