@@ -17,6 +17,7 @@ Numerous other websites propose a (more or less) up-to-date publication list:
 [Publications sorted by type](/publications)
 
 # 2026
+* M. Mohamed Mehdi, Y. Khellas, J.-P. Yaacoub, Y. Imine, A. Gallais and L. Hamdad, [VEGAS: Verifiable and Efficient Group-based secure Aggregation with Zero-Sum masking](https://2026.softcom.fesb.unist.hr/), to appear in Proc. 34th International Conference on Software, Telecommunications, and Computer Networks (SoftCOM) - Split, Croatia, Sept. 2026.
 * F. Mecerhed, Y. Imine, A. Gallais, S. Fischer, M. A. Hail, [Robust Attribute-based Access Control Protocol over Data-centric IoT-NDN Networking](https://doi.org/10.1016/j.adhoc.2025.104087), in Elsevier Ad Hoc Networks, Volume 182, 2026.
 
 # 2025
