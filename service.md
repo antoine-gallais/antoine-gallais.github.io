@@ -6,14 +6,14 @@ title: Service
 ## Current academic duties
 
 * Sept. 2026 - *: HR officer for UPHF
-* 2026 - *: Associate editor of [IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board), Area Communications and Information Security
-* 2025 - *: Elected member of the INSA HDF's Administration board
-* 2024 - *: Elected member of UPHF's Research Council
-* 2023 - *: Head of Computer Science department of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)
+* Jan. 2026 - *: Associate editor of [IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board), Area Communications and Information Security
+* Nov. 2025 - *: Elected member of the INSA HDF's Administration board
+* Sept. 2024 - *: Elected member of UPHF's Research Council
 * 2022 - *: Elected member of Computer Science teaching department's board (INSA Hauts-de-France)
 
 ## Past academic duties
-* Mar. 2020 - Mar. 2026: Elected member of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)'s laboratory board.
+* Sept. 2023 - Sept. 2026: Head of Computer Science department of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)
+* Mar. 2020 - Mar. 2026: Elected member of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)'s laboratory board
 * Jan. 2022 - Aug. 2023: Co-head of Computer Science department of [LAMIH](https://www.uphf.fr/LAMIH/en/computer-science)
 * Sept. 2020 - Aug. 2024: Coordinator of Engineer's degree in Computer science and cybersecurity at [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/)
 
