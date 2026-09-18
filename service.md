@@ -5,6 +5,7 @@ title: Service
 
 ## Current academic duties
 
+* Sept. 2026 - *: HR officer for UPHF
 * 2026 - *: Associate editor of [IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board), Area Communications and Information Security
 * 2025 - *: Elected member of the INSA HDF's Administration board
 * 2024 - *: Elected member of UPHF's Research Council
