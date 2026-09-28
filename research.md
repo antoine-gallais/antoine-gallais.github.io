@@ -9,6 +9,12 @@ My research interests lie in ad hoc and sensor networks, and more generally in t
 
 ## Current PhD Students
 I have the pleasure to co-supervise the following PhD students:
+* 	Mamadou Mounir BARRY, on Secure 5G integration for efficient, resilient, and scalable MIoT deployments
+    * Location: Université Polytechnique Hauts-de-France (France)
+    * Funding: [UPHF](https://www.uphf.fr/) and [UMons](https://web.umons.ac.be/)
+    * defense expected in 2029
+    * co-supervised with [Prof. Bruno Quoitin](https://www.uphf.fr/LAMIH/en/membre?id=delot_thierry), [Dr. Quentin De Coninck](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
+
 * Dedy Irawan, on Reliable and Secured Data transmission protocols over connected objects
     * Location: Université Polytechnique Hauts-de-France (France)
     * Funding: [BRIN Indonesia](https://www.brin.go.id/en)
@@ -32,6 +38,7 @@ I have the pleasure to co-supervise the following PhD students:
     * Funding: [Région Hauts-de-France](https://www.hautsdefrance.fr/) and [Univ. Lübeck](https://www.itm.uni-luebeck.de/home)
     * Defense expected in 2026
     * Co-supervised with [Prof. Dr. Stefan Fischer](https://www.itm.uni-luebeck.de/mitarbeitende/stefan-fischer), [Dr.-Ing. Mohamed Hail](https://www.itm.uni-luebeck.de/mitarbeitende/mohamed-hail) and [Dr. Youcef Imine](https://www.uphf.fr/LAMIH/en/membre?id=imine_youcef)
+
 * Jérôme Ridet, on [Human-centered design of security solutions](https://www.theses.fr/s361053).
   * Location: Université Polytechnique Hauts-de-France (France)
   * Frame: continuing education
